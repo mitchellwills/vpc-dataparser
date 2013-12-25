@@ -1,0 +1,183 @@
+Codice,Nome_Rio,Insula_Numero,Lunghezza,Superficie,Fondo_di_Progetto
+VERO,Rio Menuo o de la Verona,1,242.3,1202.1,180
+VEST,Rio de la Veste,1,207.9,1400.4,180
+ALBO,Rio de l'Alboro o de le Ostreghe,1,168.8,1068.0,180
+ZOBE,Rio de S.M. Zobenigo,1,201.0,1039.7,180
+MAUR,Rio de S. Maurizio e rio Malatin,1,256.3,1094.1,180
+BARC,Rio dei Barcaroli,1,137.2,1073.3,200
+LIO,Rio de S. Lio,36,89.3,676.0,200
+GRIS,Rio de S.Giovanni Grisostomo,36,219.2,1087.0,180
+GESU,Rio dei Gesuiti,2,183.9,2958.3,200
+PANA,Rio de la Panada,2,438.5,3186.6,200
+WIDM,Rio Widman,36,179.3,1242.8,200
+PIOM,Rio del Piombo,3,279.4,1203.9,180
+TETT,Rio de la Tetta,4,190.1,1427.1,200
+FORM,Rio de S.M. Formosa,4,164.6,1042.1,180
+ZULI,Rio de S. Zulian,3,193.2,1657.8,200
+ZANI,Rio de S. Zaninovo o del Remedio,4,202.8,892.5,180
+SEVE,Rio de S. Severo,4,281.2,2214.3,200
+PROV,Rio de S. Provolo o de l'Osmarin,4,116.8,589.0,180
+CELE,Rielo drio la Celestia o de l'Arsenal,25,120.5,1508.5,200
+VIGN,Rio de S. Francesco de la Vigna,5,286.0,2421.2,200
+DIO,Rio de la Ca' di Dio,24,191.3,1719.1,180
+SCUD,Rio dei Scudi e de la S. Ternita,5,355.3,2268.5,180
+TANA,Rio de la Tana,9,538.7,5982.2,200
+GHET,Rio del Ghetto Novo,7,196.3,1687.4,200
+FRES,Rio de la Frescada,33,267.5,1378.8,180
+BERN,Rielo S. Antonio-de Ca' Bernardo,8,52.9,200.7,200
+ERBE,Rielo de le Erbe,8,91.5,402.2,200
+TOMA,Rio de S. Tomà,8,165.2,842.0,180
+AGOS,Rio de S. Agostin,8,130.1,1523.2,200
+DANI,Rielo de S. Daniel,9,296.7,1692.0,180
+ANA,Rio de S. Ana,9,215.6,2024.1,200
+ISEP,Rio de S. Isepo,9,386.5,3305.5,180
+LUNA,Rio de la Luna o dei Giardinetti,10,261.8,1940.0,180
+FUSE,Rio dei Fuseri,10,124.7,871.4,180
+BARE,Rio dei Bareteri,10,109.5,784.8,180
+PROC,Rio de le Procuratie,10,105.2,578.3,180
+FERA,Rio dei Ferali,10,171.9,850.1,180
+ORSE,Rio e Bacino Orseolo,10,120.1,1140.0,180
+CANO,Rio de la Canonica o de Palazzo,10,281.5,2814.6,200
+DUCA,Rio del Duca o de S. Vidal,11,337.6,1562.9,180
+ORSO,Rio de l'Orso,11,92.1,413.8,180
+SANT,Rio del Santissimo,11,275.3,1595.9,180
+GARZ,Rio de Ca' Garzoni,11,182.1,1050.1,180
+LORE,Rio de S. Lorenzo,24,239.5,2973.1,200
+ANTO,Rio de S. Antonin,24,263.3,2876.8,200
+FELI,Rio de S. Felice,12,269.8,1905.0,200
+PRIU,Rio Priuli,12,190.6,1752.1,200
+RACH,Rio de la Racheta,12,150.1,683.5,180
+GUER,Rio de la Guerra,12,81.6,313.3,180
+ACQU,Rio de l'Acqua Dolce,12,167.2,1665.0,200
+CATE,Rio de S. Caterina,12,310.3,3211.5,200
+TRAP,Rio del Trapolin,13,175.5,1280.8,180
+FOSC,Rio de S. Fosca,13,160.9,1690.8,200
+SERV,Rio dei Servi,13,229.9,2341.6,200
+ZECC,Rio dei Zecchini,14,155.1,1926.4,200
+ALVI,Rio de S. Alvise,14,468.7,7142.5,220
+TRAS,Rio dei Trasti,40,74.9,483.8,180
+BRAZ,Rio Brazzo,40,72.5,578.4,200
+MUTI,Rio dei Muti,40,75.9,630.5,200
+SENS,Rio de la Sensa,40,1059.4,13723.6,200
+TRTE,Rio de le Torete,40,87.4,439.9,180
+LUST,Rio dei Lustraferi,40,76.3,435.7,180
+MISE,Rio de la Misericordia,40,696.6,8129.0,200
+TRON,Rio de Ca' Tron,15,172.4,587.0,180
+MOCE,Rio Mocenigo o de la Rioda o de S. Stae,15,272.4,1090.2,200
+PERG,Rio de la Pergola o de Ca' Pesaro,15,279.4,1248.3,200
+CASS,Rio de S. Cassan,16,314.5,1573.6,180
+MELO,Rio dei Meloni,16,157.6,684.3,200
+MADO,Rio della Madonnetta,16,288.0,1497.9,200
+MARN,Rio Marin,30,331.6,2684.8,200
+DEGO,Rio de S. Zan Degolà,31,369.4,2826.9,200
+MAGG,Rio de S. Maria Maggior,17,322.3,3287.9,200
+CAZZ,Rio de la Cazziola e de Ca' Rizzi,17,229.0,1544.1,180
+BURC,Rio de le Burchiele,17,319.5,2629.6,200
+TENT,Rio del Tentor,18,314.2,3907.4,200
+BRIA,Rio Briati,18,130.3,1658.4,200
+MARG,Rio de S. Margherita,18,279.1,3114.6,200
+TERE,Rio de le Terese,18,217.7,3370.9,200
+SEBA,Rio de S. Sebastian e S. Basegio,18,257.0,2764.9,200
+TOLA,Rio de la Toletta,19,191.4,945.6,180
+ROMI,Rio de le Romite,19,176.9,1254.1,200
+TROV,Rio de S. Trovaso,19,339.7,3555.5,200
+MALP,Rio del Malpaga,19,420.5,3045.9,200
+OGNI,Rio dei Ognisanti,19,390.8,4253.8,200
+SALU,Rio de la Salute,20,185.8,1297.7,200
+FORN,Rio de la Fornasa,20,272.9,1958.2,180
+TORE,Rio de le Toresele,20,382.5,2121.4,180
+VIO,Rio de S. Vio,20,267.6,2353.7,200
+CANN,Canal de Cannaregio,28,797.2,17435.5,220
+GIOB,Rio de S. Giobbe,28,274.4,1647.9,200
+MAGA,Rio del Magazen,32,63.9,504.4,200
+TREP,Rio dei Tre Ponti,32,118.4,1343.4,200
+GAFF,Rio del Gaffaro e del Malcanton,32,269.0,2660.2,200
+NOVO,Rio Novo,32,512.4,9516.5,200
+PANT,Rio de S. Pantalon,33,112.1,1216.3,200
+CORN,Rio de Ca' Corner,35,166.4,766.1,180
+MICH,Rio de Ca' Michiel,35,103.9,483.8,180
+SALV,Rio de S. Salvador,35,216.7,1071.8,180
+QUIN,Rio de Quintavale,37,195.9,6781.8,220
+GIAR,Rio dei Giardini,38,523.3,11692.9,220
+ELEN,Rio de S. Elena,38,459.9,5751.7,220
+AMAL,Rio Amalteo,8,25.7,143.2,200
+MARI,Rio de S. Marina,3,181.2,2018.8,200
+PEST,Rio del Pestrin,3,216.1,1871.1,200
+TOLE,Rio dei Tolentini e de la Crose,32,262.4,2317.1,200
+CREA,Rio de la Crea,28,577.6,4726.4,200
+MEND,Rio dei Mendicanti o de S. Zanipolo,25,402.2,5719.6,200
+BOLD,Rio de S. Boldo,15,139.6,649.4,180
+BECA,Rio de le Becarie,16,254.5,1163.1,180
+POLO,Rio de S. Polo,8,337.1,3414.3,200
+ORIO,Rio de S. Giacomo dell'Orio,8,217.0,1694.5,200
+MEGI,Rio del Megio,15,325.6,2324.0,200
+MADA,Rio de la Madalena,13,228.3,1484.2,200
+GRIM,Rio Grimani,13,85.3,498.4,180
+ORTO,Rio de la Madona de l'Orto,14,384.9,4404.5,200
+APOS,Rio dei Ss. Apostoli,12,405.3,3410.5,200
+MIRA,Rio dei Miracoli,36,118.3,608.8,180
+MOND,Rio del Mondo Novo,3,246.4,1961.1,200
+FAVA,Rio de la Fava,36,210.6,1844.1,200
+LATE,Rio de S. Giovanni Laterano,4,271.1,2287.5,200
+GIUS,Rio de S. Giustina,25,225.5,3395.2,200
+PIET,Rio de la Pietà,24,204.7,2000.2,200
+GREC,Rio dei Greci,24,207.1,2687.6,200
+VERG,Rio de le Vergini,9,137.7,1886.0,200
+PIER,Canal de S. Piero,37,454.7,21333.3,220
+ARSE,Rio de l'Arsenal,24,261.9,3908.7,220
+ARZE,Rio de l'Arzere e de S. Marta,17,355.5,8008.7,200
+NICO,Rio de S. Nicolò dei Mendicoli,18,258.2,2550.2,200
+RAFF,Rio de l'Anzolo Rafael,18,325.3,3171.8,200
+BARN,Rio de S. Barnaba,19,333.3,2410.1,200
+AVOG,Rio de l'Avogaria,19,185.8,1646.4,200
+ANZO,Rio de S. Anzolo,11,114.3,676.2,180
+MOIS,Rio de S. Moisè,1,202.3,1759.1,200
+LUCA,Rio de S. Luca,35,196.6,1618.3,200
+SCOA,Rio dei Scoacamini,10,125.2,838.6,180
+BOTE,Rio de le Bote,32,60.7,503.0,200
+ZIRA,Rio de Sant'Andrea de la Zirada,17,123.3,969.8,200
+CARM,Rio dei Carmini,18,124.5,1521.3,200
+CAFO,Rio de Ca' Foscari,33,300.9,4255.5,200
+MRTI,Rio de San Martin,24,111.9,444.4,180
+GORN,Rio de le Gorne,5,307.8,1973.1,180
+GIRO,Rio de S. Girolamo,40,389.2,4749.7,200
+TEDE,Rio del Fontego dei Tedeschi,36,110.5,876.0,200
+VIN,Rio del Vin,4,232.2,1351.3,180
+MARC,Rio de S. Marcuola,13,183.7,1144.2,200
+GOZZ,Rio del Gozzi,12,163.5,1171.0,200
+ANDR,Rio de S. Andrea,12,113.5,911.2,200
+APON,Rio de S. Aponal,16,98.2,608.2,180
+MORO,Rio de Ca'Moro,40,80.8,1731.7,200
+BATE,Rio del Batelo,7,525.7,5535.0,200
+SCOM,Canal de la Scomenzera,0,782.5,37970.5,220
+CHIA,Canal de S. Chiara,0,334.5,10749.4,220
+CMIS,Canal de la Misericordia,2,262.8,5692.5,220
+NOAL,Rio de Noal,12,275.4,3426.8,220
+DOMI,Rio de S. Maria Mater Domini,15,283.0,1606.5,180
+GERO,Rio de S. Gerolamo,9,341.2,3671.3,200
+ZUAN,Rio de S. Zuane Evangelista,8,218.1,1206.3,200
+MUNE,Rio de le Muneghete,8,349.6,2051.7,200
+FRAR,Rio dei Frari,8,121.8,996.7,180
+STIN,Rio de S. Stin,8,111.9,934.2,180
+GRAN,Canal Grande,0,4015.8,244172.1,500
+GALE,Canal de le Galeazze,6,0.0,22883.4,600
+SACM,Rio de la Sacca de la Misericordia,40,157.8,1780.8,0
+BIAG,Rio de San Biagio,22,364.3,4544.0,0
+CONV,Rio de le Convertite,22,258.9,3388.5,0
+CROC,Rio de la Croce,23,255.0,2458.2,0
+EUFE,Rio de S. Eufemia,22,373.3,3296.6,0
+CINI,Canal Cini,23,196.1,7874.6,0
+LAVR,Rio dei Lavraneri,21,324.5,21310.9,0
+MORT,Rio Morto,22,62.6,389.6,0
+PALA,Rio de la Palada,22,158.6,2540.5,0
+PLON,Rio del Ponte Longo,22,283.7,9719.4,0
+PPIC,Rio del Ponte Piccolo,22,339.6,4336.3,0
+SACF,Canal de Sacca Fisola,21,372.3,5858.5,0
+SACB,Canal de Sacca San Biagio,21,315.5,27972.1,0
+1FIS,Rio primo de Sacca Fisola,21,165.7,3311.8,0
+2FIS,Rio secondo de Sacca Fisola,21,108.4,1225.3,0
+GIOR,Canal de San Giorgio Maggior,23,410.4,25850.7,0
+BUCI,Canal Bucintoro,0,0.0,1154.3,0
+DNUO,Darsena Nova e Novissima,0,0.0,97425.6,0
+DGIO,Darsena San Giorgio,23,0.0,10911.8,0
+2TOR,Rio de le Do Torre,8,71.5,419.9,180

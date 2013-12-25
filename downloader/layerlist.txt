@@ -1,0 +1,72 @@
+#altimetry
+rete-raffittimento
+rete-aggancio
+rete-inquadramento
+rete-gps
+
+#archeology
+
+#Bathymetric points
+punti-batimetrici
+
+#maintenance operations
+mimuv-eventi
+
+#parks in mestre
+
+#paths
+
+#sub- (sottoservizi)
+sottoservizi-enel-speciali
+sottoservizi-enel-rete-aerei
+sottoservizi-enel-rete-interrati
+#telecom-rame-interrati
+#telecom-speciali
+#wind-rete
+#wind-progetto-rete
+#fastweb-progetto-rete
+#fastweb-rete
+#cablaggi-rete
+#cablaggi-pozzetti
+#cablaggi-progetto-rete
+#cablaggi-progetto-pozzetti
+#fognatura-rete
+#fognatura-speciali
+#videosorveglianza-rete
+#videosorveglianza-progetto-rete
+#vesta-prese
+#vesta-rete
+#vesta-speciali
+#vesta-antincendio-rete
+#vesta-antincendio-speciali
+#italgas-rete
+#italgas-speciali
+#italgas-prese
+#illuminazione-pubblica-candelabri
+#illuminazione-pubblica-plafoniere
+#illuminazione-pubblica-punti-luce
+#illuminazione-pubblica-rete-terra
+#illuminazione-pubblica-speciali
+#illuminazione-pubblica-rete-aerea
+#sezioni-sezioni
+
+#strutture architettoniche
+
+#download section
+punti-batimetrici
+curve-livello
+discontinuita
+rete-gps
+pavimentazione-ramses
+ponti
+porte-acqua
+rete-inquadramento
+rete-raffittimento
+sottoportico
+sponda
+
+#valutazione dissesto
+
+
+#other
+ponti

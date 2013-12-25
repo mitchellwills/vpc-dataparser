@@ -1,0 +1,529 @@
+ISMAR equivalent segments,WPI Segments,Canal Name
+2001,SCOM2 ,Canal de la Scomenzera                                      
+2002,NICO2 ,Rio de S. Nicolò dei Mendicoli                              
+2003,RAFF2,Rio de l'Anzolo Rafael                                      
+2004,CARM  ,Rio dei Carmini                                             
+2005,BRIA  ,Rio Briati                                                  
+2006,MAGG3 ,Rio de S. Maria Maggior                                     
+2007,MAGG2 ,Rio de S. Maria Maggior                                     
+2008,MAGG1 ,Rio de S. Maria Maggior                                     
+2009,TREP1 ,Rio dei Tre Ponti                                           
+2010,BOTE  ,Rio de le Bote                                              
+2011,TREP3 ,Rio dei Tre Ponti                                           
+2012,TREP2 ,Rio dei Tre Ponti                                           
+2013,TENT1 ,Rio del Tentor                                              
+2014,CAFO1 ,Rio de Ca' Foscari                                          
+2015,BARN2 ,Rio de S. Barnaba                                           
+2016,MALP4 ,Rio del Malpaga                                             
+2017,OGNI2,Rio dei Ognisanti                                           
+2018,OGNI3,Rio dei Ognisanti                                           
+2019,TROV3,Rio de S. Trovaso                                           
+2020,VEST1 ,Rio de la Veste                                             
+2021,ANZO2,Rio de S. Anzolo                                            
+2022,PANT  ,Rio de S. Pantalon                                          
+2023,MISE3 ,Rio de la Misericordia                                      
+2024,LUST  ,Rio dei Lustraferi                                          
+2025,SENS3 ,Rio de la Sensa                                             
+2026,TRAS  ,Rio dei Trasti                                              
+2027,ZECC  ,Rio dei Zecchini                                            
+2028,ORTO1 ,Rio de la Madona de l'Orto                                  
+2029,BRAZ  ,Rio Brazzo                                                  
+2030,SENS4 ,Rio de la Sensa                                             
+2031,SENS5 ,Rio de la Sensa                                             
+2032,MUTI  ,Rio dei Muti                                                
+2033,ORTO2 ,Rio de la Madona de l'Orto                                  
+2034,ORTO3 ,Rio de la Madona de l'Orto                                  
+2035,CMIS2 ,Canal de la Misericordia                                    
+2036,SENS6 ,Rio de la Sensa                                             
+2037,CMIS3 ,Canal de la Misericordia                                    
+2038,NOAL1 ,Rio de Noal                                                 
+2039,MISE6 ,Rio de la Misericordia                                      
+2040,MISE5 ,Rio de la Misericordia                                      
+2041,MISE4 ,Rio de la Misericordia                                      
+2042,SERV1 ,Rio dei Servi                                               
+2043,GRIM1 ,Rio Grimani                                                 
+2044,GRIM2 ,Rio Grimani                                                 
+2045,NOAL2 ,Rio de Noal                                                 
+2046,TRAP  ,Rio del Trapolin                                            
+2047,FELI1 ,Rio de S. Felice                                            
+2048,ANDR2,Rio de S. Andrea                                            
+2049,ANDR1,Rio de S. Andrea                                            
+2050,RACH1,Rio de la Racheta                                           
+2051,CATE1 ,Rio de S. Caterina                                          
+2052,CATE2,Rio de S. Caterina                                          
+2053,ACQU1,Rio de l'Acqua Dolce                                        
+2054,CATE3,Rio de S. Caterina                                          
+2055,GESU1,Rio dei Gesuiti                                             
+2056,GESU2 ,Rio dei Gesuiti                                             
+2057,GOZZ  ,Rio del Gozzi                                               
+2058,MARI3 ,Rio de S. Marina                                            
+2059,MARI2 ,Rio de S. Marina                                            
+2060,PANA3 ,Rio de la Panada                                            
+2061,MARI4 ,Rio de S. Marina                                            
+2062,PEST1,Rio del Pestrin                                             
+2063,TETT1,Rio de la Tetta                                             
+2064,SEVE1 ,Rio de S. Severo                                            
+2065,FORM  ,Rio de S.M. Formosa                                         
+2066,MOND1 ,Rio del Mondo Novo                                          
+2067,PIOM1 ,Rio del Piombo                                              
+2068,PEST2 ,Rio del Pestrin                                             
+2069,MOND3,Rio del Mondo Novo                                          
+2070,PROV2 ,Rio de S. Provolo o de l'Osmarin                            
+2071,TETT2 ,Rio de la Tetta                                             
+2072,LORE1 ,Rio de S. Lorenzo                                           
+2073,LATE1 ,Rio de S. Giovanni Laterano                                 
+2074,BARE2 ,Rio dei Bareteri                                            
+2075,BARE1 ,Rio dei Bareteri                                            
+2076,FERA1 ,Rio dei Ferali                                              
+2077,SCOA2 ,Rio dei Scoacamini                                          
+2079,VEST2,Rio de la Veste                                             
+2080,LUNA  ,Rio de la Luna o dei Giardinetti                            
+2081,REAL  ,Rio de la Luna o dei Giardinetti                            
+2082,ZECA  ,Rio de la Luna o dei Giardinetti                            
+2083,LORE2 ,Rio de S. Lorenzo                                           
+2084,GREC  ,Rio dei Greci                                               
+2085,PROV1 ,Rio de S. Provolo o de l'Osmarin                            
+2086,LATE2 ,Rio de S. Giovanni Laterano                                 
+2087,BARC1 ,Rio dei Barcaroli                                           
+2087,MRTI1 ,Rio de San Martin                                           
+2088,MRTI2 ,Rio de San Martin                                           
+2089,GALE2 ,Canal de le Galeazze                                        
+2090,BUCI  ,Canal Bucintoro                                            
+2091,GIUS  ,Rio de S. Giustina                                          
+2092,TANA1 ,Rio de la Tana                                              
+2093,ANA3,Rio de S. Ana                                               
+2094,ANA2,Rio de S. Ana                                               
+2095,ANA1,Rio de S. Ana                                               
+2096,VERG1 ,Rio de le Vergini                                           
+2097,VERG2 ,Rio de le Vergini                                           
+2098,PIER2 ,Canal de S. Piero                                           
+2099,PIER3 ,Canal de S. Piero                                           
+2100,QUIN  ,Rio de Quintavale                                           
+2101,PIER1 ,Canal de S. Piero                                           
+2102,GAFF  ,Rio del Gaffaro e del Malcanton                             
+2103,GAFF  ,Rio del Gaffaro e del Malcanton                             
+2104,NOVO4 ,Rio Novo                                                    
+2105,NOVO4 ,Rio Novo                                                    
+2106,CAZZ,Rio de la Cazziola e de Ca' Rizzi                           
+2107,CAZZ,Rio de la Cazziola e de Ca' Rizzi                           
+2108,TENT2,Rio del Tentor                                              
+2109,TENT2,Rio del Tentor                                              
+2110,TERE2,Rio de le Terese                                            
+2111,NICO1 ,Rio de S. Nicolò dei Mendicoli                              
+2112,NICO1 ,Rio de S. Nicolò dei Mendicoli                              
+2113,RAFF1,Rio de l'Anzolo Rafael                                      
+2114,RAFF1,Rio de l'Anzolo Rafael                                      
+2115,SEBA  ,Rio de S. Sebastian e S. Basegio                            
+2116,SEBA  ,Rio de S. Sebastian e S. Basegio                            
+2117,AVOG  ,Rio de l'Avogaria                                           
+2118,OGNI1,Rio dei Ognisanti                                           
+2119,OGNI1,Rio dei Ognisanti                                           
+2120,ROMI,Rio de le Romite                                            
+2121,ROMI,Rio de le Romite                                            
+2122,AVOG  ,Rio de l'Avogaria                                           
+2123,MARG  ,Rio de S. Margherita                                        
+2124,MARG  ,Rio de S. Margherita                                        
+2125,CAFO2 ,Rio de Ca' Foscari                                          
+2126,FRES  ,Rio de la Frescada                                          
+2127,VERO1 ,Rio Menuo o de la Verona                                    
+2128,VERO1 ,Rio Menuo o de la Verona                                    
+2129,VERO2 ,Rio Menuo o de la Verona                                    
+2130,MAUR  ,Rio de S. Maurizio e rio Malatin                            
+2131,MAUR  ,Rio de S. Maurizio e rio Malatin                            
+2132,SANT  ,Rio del Santissimo                                          
+2133,ZOBE  ,Rio de S.M. Zobenigo                                        
+2134,SCOA1 ,Rio dei Scoacamini                                          
+2135,SCOA1 ,Rio dei Scoacamini                                          
+2136,FERA2 ,Rio dei Ferali                                              
+2137,FERA2 ,Rio dei Ferali                                              
+2138,FERA2 ,Rio dei Ferali                                              
+2139,ZULI  ,Rio de S. Zulian                                            
+2140,ZULI  ,Rio de S. Zulian                                            
+2141,ZULI  ,Rio de S. Zulian                                            
+2142,ZULI  ,Rio de S. Zulian                                            
+2143,ZANI  ,Rio de S. Zaninovo o del Remedio                            
+2144,ZANI  ,Rio de S. Zaninovo o del Remedio                            
+2145,ZANI  ,Rio de S. Zaninovo o del Remedio                            
+2146,VIN   ,Rio del Vin                                                 
+2147,VIN   ,Rio del Vin                                                 
+2148,VIN   ,Rio del Vin                                                 
+2149,Rii tera,Rii tera a volto
+2150,SEVE2 ,Rio de S. Severo                                            
+2151,SEVE2 ,Rio de S. Severo                                            
+2152,MOND2 ,Rio del Mondo Novo                                          
+2153,MOND2 ,Rio del Mondo Novo                                          
+2154,PIOM2 ,Rio del Piombo                                              
+2155,PIOM2 ,Rio del Piombo                                              
+2156,PIOM2 ,Rio del Piombo                                              
+2157,FAVA2 ,Rio de la Fava                                              
+2158,FAVA2 ,Rio de la Fava                                              
+2159,CELE,Rielo drio la Celestia o de l'Arsenal                       
+2160,CELE,Rielo drio la Celestia o de l'Arsenal                       
+2161,VIGN  ,Rio de S. Francesco de la Vigna                             
+2162,VIGN  ,Rio de S. Francesco de la Vigna                             
+2163,GERO  ,Rio de S. Gerolamo                                          
+2164,GERO  ,Rio de S. Gerolamo                                          
+2165,TANA2 ,Rio de la Tana                                              
+2166,DANI  ,Rielo de S. Daniel                                          
+2167,DANI  ,Rielo de S. Daniel                                          
+2168,DANI  ,Rielo de S. Daniel                                          
+2169,DANI  ,Rielo de S. Daniel                                          
+2170,GORN  ,Rio de le Gorne                                             
+2171,GORN  ,Rio de le Gorne                                             
+2172,GORN  ,Rio de le Gorne                                             
+2173,SCUD1 ,Rio dei Scudi e de la S. Ternita                            
+2174,DIO   ,Rio de la Ca' di Dio                                        
+2175,DIO   ,Rio de la Ca' di Dio                                        
+2176,ANTO  ,Rio de S. Antonin                                           
+2177,ANTO  ,Rio de S. Antonin                                           
+2178,APOS3 ,Rio dei Ss. Apostoli                                        
+2179,WIDM3 ,Rio Widman                                                  
+2180,WIDM3 ,Rio Widman                                                  
+2181,GIAR3 ,Rio dei Giardini                                            
+2182,ISEP2 ,Rio de S. Isepo                                             
+2183,ISEP2 ,Rio de S. Isepo                                             
+2184,MUNE  ,Rio de le Muneghete                                         
+2185,ARZE1 ,Rio de l'Arzere e de S. Marta                               
+2186,ZIRA2 ,Rio de Sant'Andrea de la Zirada                             
+2187,ARZE2 ,Rio de l'Arzere e de S. Marta                               
+2188,ARZE3 ,Rio de l'Arzere e de S. Marta                               
+2189,ARZE4 ,Rio de l'Arzere e de S. Marta                               
+2190,BURC  ,Rio de le Burchiele                                         
+2191,BURC  ,Rio de le Burchiele                                         
+2192,ZIRA1,Rio de Sant'Andrea de la Zirada                             
+2193,NOVO1 ,Rio Novo                                                    
+2194,NOVO1 ,Rio Novo                                                    
+2195,GRAN2,Canal Grande
+2196,CHIA1 ,Canal de S. Chiara                                          
+2197,CHIA1 ,Canal de S. Chiara                                          
+2198,CHIA2 ,Canal de S. Chiara                                          
+2199,GRAN1,Canal Grande
+2200,GRAN1,Canal Grande
+2201,GRAN3,Canal Grande
+2202,MARN  ,Rio Marin                                                   
+2203,MARN  ,Rio Marin                                                   
+2204,MARN  ,Rio Marin                                                   
+2205,ZUAN  ,Rio de S. Zuane Evangelista                                 
+2206,ZUAN  ,Rio de S. Zuane Evangelista                                 
+2207,MUNE  ,Rio de le Muneghete                                         
+2208,MUNE  ,Rio de le Muneghete                                         
+2209,MAGA  ,Rio del Magazen                                             
+2210,NOVO2 ,Rio Novo                                                    
+2211,TOLE  ,Rio dei Tolentini e de la Crose                             
+2212,TOLE  ,Rio dei Tolentini e de la Crose                             
+2213,TOLE  ,Rio dei Tolentini e de la Crose                             
+2214,TOLE  ,Rio dei Tolentini e de la Crose                             
+2215,NOVO3 ,Rio Novo                                                    
+2216,GAFF  ,Rio del Gaffaro e del Malcanton                             
+2217,GAFF  ,Rio del Gaffaro e del Malcanton                             
+2218,TERE1,Rio de le Terese                                            
+2219,TERE2,Rio de le Terese                                            
+2220,MALP3 ,Rio del Malpaga                                             
+2221,ROMI,Rio de le Romite                                            
+2222,MALP2 ,Rio del Malpaga                                             
+2223,TOLA1,Rio de la Toletta                                           
+2224,TOLA2,Rio de la Toletta                                           
+2225,TOLA2,Rio de la Toletta                                           
+2226,TROV1 ,Rio de S. Trovaso                                           
+2227,TROV2,Rio de S. Trovaso                                           
+2228,TROV2,Rio de S. Trovaso                                           
+2229,MALP1 ,Rio del Malpaga                                             
+2231,BARN1 ,Rio de S. Barnaba                                           
+2232,BARN1 ,Rio de S. Barnaba                                           
+2233,CAFO2 ,Rio de Ca' Foscari                                          
+2234,GRAN28,Canal Grande
+2235,GRAN27,Canal Grande
+2236,GRAN26,Canal Grande
+2237,GRAN25,Canal Grande
+2238,GARZ  ,Rio de Ca' Garzoni                                          
+2239,GARZ  ,Rio de Ca' Garzoni                                          
+2240,GARZ  ,Rio de Ca' Garzoni                                          
+2241,GARZ  ,Rio de Ca' Garzoni                                          
+2242,CORN  ,Rio de Ca' Corner                                           
+2243,CORN  ,Rio de Ca' Corner                                           
+2244,MICH,Rio de Ca' Michiel                                          
+2245,DUCA  ,Rio del Duca o de S. Vidal                                  
+2246,DUCA  ,Rio del Duca o de S. Vidal                                  
+2247,DUCA  ,Rio del Duca o de S. Vidal                                  
+2248,DUCA  ,Rio del Duca o de S. Vidal                                  
+2249,DUCA  ,Rio del Duca o de S. Vidal                                  
+2250,GRAN32,Canal Grande
+2251,GRAN31,Canal Grande
+2252,GRAN30,Canal Grande
+2253,GRAN29,Canal Grande
+2255,GRAN33,Canal Grande
+2257,GRAN34,Canal Grande
+2258,GRAN35,Canal Grande
+2259,VIO   ,Rio de S. Vio                                               
+2260,VIO   ,Rio de S. Vio                                               
+2261,SANT  ,Rio del Santissimo                                          
+2262,SANT  ,Rio del Santissimo                                          
+2263,ORSO,Rio de l'Orso                                               
+2264,TORE  ,Rio de le Toresele                                          
+2265,TORE  ,Rio de le Toresele                                          
+2266,MAUR  ,Rio de S. Maurizio e rio Malatin                            
+2266,PIET  ,Rio de la Pietà                                             
+2267,MAUR  ,Rio de S. Maurizio e rio Malatin                            
+2268,ZOBE  ,Rio de S.M. Zobenigo                                        
+2269,ZOBE  ,Rio de S.M. Zobenigo                                        
+2270,GRAN37,Canal Grande
+2271,GRAN36,Canal Grande
+2272,FORN1 ,Rio de la Fornasa                                           
+2273,FORN2 ,Rio de la Fornasa                                           
+2274,FORN2 ,Rio de la Fornasa                                           
+2275,TORE  ,Rio de le Toresele                                          
+2277,SALU2 ,Rio de la Salute                                            
+2278,SALU1 and SALU2,Rio de la Salute                                            
+2279,SALU1 ,Rio de la Salute                                            
+2279,VIO   ,Rio de S. Vio                                               
+2280,GRAN38,Canal Grande
+2281,GRAN39,Canal Grande
+2282,GRAN40,Canal Grande
+2283,GRAN41,Canal Grande
+2284,ALBO  ,Rio de l'Alboro o de le Ostreghe                            
+2285,MOIS  ,Rio de S. Moisè                                             
+2286,ALBO  ,Rio de l'Alboro o de le Ostreghe                            
+2287,VEST3 ,Rio de la Veste                                             
+2288,MOIS  ,Rio de S. Moisè                                             
+2289,MOIS  ,Rio de S. Moisè                                             
+2290,MOIS  ,Rio de S. Moisè                                             
+2291,BARC2 ,Rio dei Barcaroli                                           
+2292,FRES  ,Rio de la Frescada                                          
+2293,TOMA  ,Rio de S. Tomà                                              
+2294,TOMA  ,Rio de S. Tomà                                              
+2295,TOMA  ,Rio de S. Tomà                                              
+2296,FRAR1 and FRAR2,Rio dei Frari                                               
+2297,FRAR1 ,Rio dei Frari                                               
+2298,STIN  ,Rio de S. Stin                                              
+2299,POLO2 ,Rio de S. Polo                                              
+2300,AMAL  ,Rio Amalteo                                                 
+2301,POLO3 ,Rio de S. Polo                                              
+2302,POLO4 ,Rio de S. Polo                                              
+2303,POLO5 ,Rio de S. Polo                                              
+2304,GRAN24,Canal Grande
+2305,GRAN23,Canal Grande
+2306,GRAN22,Canal Grande
+2307,GRAN21,Canal Grande
+2308,LUCA1 ,Rio de S. Luca                                              
+2309,MICH,Rio de Ca' Michiel                                          
+2310,CORN  ,Rio de Ca' Corner                                           
+2311,MADO3 ,Rio della Madonnetta                                        
+2312,MADO3 ,Rio della Madonnetta                                        
+2313,MELO  ,Rio dei Meloni                                              
+2314,MELO  ,Rio dei Meloni                                              
+2315,APON2,Rio de S. Aponal                                            
+2316,ERBE  ,Rielo de le Erbe                                            
+2317,Rii tera,Rii tera a volto
+2318,POLO1 ,Rio de S. Polo                                              
+2319,BERN  ,Rielo S. Antonio-de Ca' Bernardo                            
+2320,Rii tera,Rii tera a volto
+2321,2TOR2 ,Rio de le Do Torre                                          
+2322,MADO1 ,Rio della Madonnetta                                        
+2323,MADO2 ,Rio della Madonnetta                                        
+2324,CASS2 ,Rio de S. Cassan                                            
+2325,Rii tera,Rii tera a volto
+2326,APON1 ,Rio de S. Aponal                                            
+2327,BECA2 ,Rio de le Becarie                                           
+2328,BECA1 ,Rio de le Becarie                                           
+2329,BECA1 ,Rio de le Becarie                                           
+2330,BECA1 ,Rio de le Becarie                                           
+2331,BECA1 ,Rio de le Becarie                                           
+2332,GRAN20,Canal Grande
+2333,GRAN19,Canal Grande
+2334,GRAN18,Canal Grande
+2335,GRAN17,Canal Grande
+2336,GRAN16,Canal Grande
+2337,GRAN15,Canal Grande
+2338,GRAN14,Canal Grande
+2339,CASS1 ,Rio de S. Cassan                                            
+2340,CASS1 ,Rio de S. Cassan                                            
+2341,GRAN13,Canal Grande
+2342,GRAN12,Canal Grande
+2343,PERG  ,Rio de la Pergola o de Ca' Pesaro                           
+2344,PERG  ,Rio de la Pergola o de Ca' Pesaro                           
+2345,Rii tera,Rii tera a volto
+2346,Rii tera,Rii tera a volto
+2347,ORIO1 ,Rio de S. Giacomo dell'Orio                                 
+2348,ORIO2 ,Rio de S. Giacomo dell'Orio                                 
+2349,AGOS  ,Rio de S. Agostin                                           
+2350,ORIO3 ,Rio de S. Giacomo dell'Orio                                 
+2351,DEGO4 ,Rio de S. Zan Degolà                                        
+2352,DEGO4 ,Rio de S. Zan Degolà                                        
+2353,DEGO2 ,Rio de S. Zan Degolà                                        
+2353,DEGO3 ,Rio de S. Zan Degolà                                        
+2354,MEGI2 ,Rio del Megio                                               
+2355,MEGI2 ,Rio del Megio                                               
+2356,MEGI1 ,Rio del Megio                                               
+2357,MEGI3 ,Rio del Megio                                               
+2358,BOLD1 ,Rio de S. Boldo                                             
+2359,BOLD2 ,Rio de S. Boldo                                             
+2360,BOLD3 ,Rio de S. Boldo                                             
+2361,2TOR1 ,Rio de le Do Torre                                          
+2362,DOMI  ,Rio de S. Maria Mater Domini                                
+2363,DOMI  ,Rio de S. Maria Mater Domini                                
+2364,MOCE  ,Rio Mocenigo o de la Rioda o de S. Stae                     
+2365,APOS4 ,Rio dei Ss. Apostoli                                        
+2366,APOS4 ,Rio dei Ss. Apostoli                                        
+2367,APOS4 ,Rio dei Ss. Apostoli                                        
+2368,APOS3 ,Rio dei Ss. Apostoli                                        
+2369,GRIS1,Rio de S.Giovanni Grisostomo                                
+2370,TEDE  ,Rio del Fontego dei Tedeschi                                
+2371,TEDE  ,Rio del Fontego dei Tedeschi                                
+2372,FAVA1 ,Rio de la Fava                                              
+2373,LIO   ,Rio de S. Lio                                               
+2374,PIOM2 ,Rio del Piombo                                              
+2375,LUCA1 ,Rio de S. Luca                                              
+2376,LUCA1 ,Rio de S. Luca                                              
+2377,MEGI1 ,Rio del Megio                                               
+2378,MEGI1 ,Rio del Megio                                               
+2379,TRON,Rio de Ca' Tron                                             
+2380,TRON,Rio de Ca' Tron                                             
+2381,GRAN9,Canal Grande
+2382,GRAN8,Canal Grande
+2383,GRAN7,Canal Grande
+2384,GRAN6,Canal Grande
+2385,GRAN5,Canal Grande
+2387,DEGO1 ,Rio de S. Zan Degolà                                        
+2388,CANN4 ,Canal de Cannaregio                                         
+2389,CANN4 ,Canal de Cannaregio                                         
+2390,MARC3,Rio de S. Marcuola                                          
+2391,MARC2,Rio de S. Marcuola                                          
+2392,MARC1,Rio de S. Marcuola                                          
+2393,SERV2 ,Rio dei Servi                                               
+2394,FOSC1 ,Rio de S. Fosca                                             
+2395,MADA1 ,Rio de la Madalena                                          
+2396,MADA2 ,Rio de la Madalena                                          
+2397,MADA2 ,Rio de la Madalena                                          
+2398,NOAL4 ,Rio de Noal                                                 
+2399,NOAL4 ,Rio de Noal                                                 
+2400,FOSC2 ,Rio de S. Fosca                                             
+2401,NOAL3 ,Rio de Noal                                                 
+2402,FELI2 ,Rio de S. Felice                                            
+2403,FELI2 ,Rio de S. Felice                                            
+2404,PRIU1 ,Rio Priuli                                                  
+2405,PRIU2 ,Rio Priuli                                                  
+2406,PRIU3 ,Rio Priuli                                                  
+2407,ACQU3 ,Rio de l'Acqua Dolce                                        
+2408,GUER  ,Rio de la Guerra                                            
+2409,RACH2 ,Rio de la Racheta                                           
+2410,ACQU2 ,Rio de l'Acqua Dolce                                        
+2411,MOCE  ,Rio Mocenigo o de la Rioda o de S. Stae                     
+2412,GRAN10,Canal Grande
+2413,GRAN10,Canal Grande
+2414,GRAN11,Canal Grande
+2415,MADA2 ,Rio de la Madalena                                          
+2416,ALVI  ,Rio de S. Alvise                                            
+2417,ALVI  ,Rio de S. Alvise                                            
+2418,SENS2 ,Rio de la Sensa                                             
+2419,SENS1 ,Rio de la Sensa                                             
+2420,SENS1 ,Rio de la Sensa                                             
+2421,MORO  ,Rio de Ca'Moro                                              
+2422,BATE1 ,Rio del Batelo                                              
+2423,BATE1 ,Rio del Batelo                                              
+2424,BATE1 ,Rio del Batelo                                              
+2425,BATE2 ,Rio del Batelo                                              
+2426,GIRO  ,Rio de S. Girolamo                                          
+2427,GIRO  ,Rio de S. Girolamo                                          
+2428,TRTE,Rio de le Torete                                            
+2429,MISE1 ,Rio de la Misericordia                                      
+2430,MISE2 ,Rio de la Misericordia                                      
+2431,CANN3 ,Canal de Cannaregio                                         
+2432,CANN3 ,Canal de Cannaregio                                         
+2433,CANN2 ,Canal de Cannaregio                                         
+2434,CANN1 ,Canal de Cannaregio                                         
+2435,GIOB  ,Rio de S. Giobbe                                            
+2436,CREA1 ,Rio de la Crea                                              
+2437,CREA1 ,Rio de la Crea                                              
+2438,CREA1 ,Rio de la Crea                                              
+2439,CREA1 ,Rio de la Crea                                              
+2440,GHET  ,Rio del Ghetto Novo                                         
+2441,GHET  ,Rio del Ghetto Novo                                         
+2442,GHET  ,Rio del Ghetto Novo                                         
+2443,CREA3,Rio de la Crea                                              
+2444,CREA2 ,Rio de la Crea                                              
+2445,GIOB  ,Rio de S. Giobbe                                            
+2446,Rii tera,Rii tera a volto
+2447,Rii tera,Rii tera a volto
+2448,Rii tera,Rii tera a volto
+2449,PANA1 ,Rio de la Panada                                            
+2450,PANA2 ,Rio de la Panada                                            
+2451,MEND  ,Rio dei Mendicanti o de S. Zanipolo                         
+2452,MEND  ,Rio dei Mendicanti o de S. Zanipolo                         
+2453,GRIS2,Rio de S.Giovanni Grisostomo                                
+2454,MIRA  ,Rio dei Miracoli                                            
+2455,GRIS1,Rio de S.Giovanni Grisostomo                                
+2456,GRIS1,Rio de S.Giovanni Grisostomo                                
+2457,SALV  ,Rio de S. Salvador                                          
+2458,SALV  ,Rio de S. Salvador                                          
+2459,LUCA2 and LUCA3,Rio de S. Luca                                              
+2460,ANZO1 ,Rio de S. Anzolo                                            
+2461,FUSE  ,Rio dei Fuseri                                              
+2462,FUSE  ,Rio dei Fuseri                                              
+2463,CANO  ,Rio de la Canonica o de Palazzo                             
+2464,CANO  ,Rio de la Canonica o de Palazzo                             
+2465,ANTO  ,Rio de S. Antonin                                           
+2467,SCUD1 ,Rio dei Scudi e de la S. Ternita                            
+2468,SCUD2 ,Rio dei Scudi e de la S. Ternita                            
+2469,GALE1,Canal de le Galeazze                                        
+2470,GALE1,Canal de le Galeazze                                        
+2471,GALE1,Canal de le Galeazze                                        
+2472,DNUO  ,Darsena Nova e Novissima                                    
+2473,DNUO  ,Darsena Nova e Novissima                                    
+2474,DNUO  ,Darsena Nova e Novissima                                    
+2475,DNUO  ,Darsena Nova e Novissima                                    
+2476,ARSE  ,Rio de l'Arsenal                                            
+2477,ARSE  ,Rio de l'Arsenal                                            
+2478,DNUO  ,Darsena Nova e Novissima                                    
+2479,TANA2 ,Rio de la Tana                                              
+2480,TANA2 ,Rio de la Tana                                              
+2481,TANA3 ,Rio de la Tana                                              
+2482,Rii tera,Rii tera a volto
+2483,Rii tera,Rii tera a volto
+2484,ISEP1 ,Rio de S. Isepo                                             
+2485,GIAR1 ,Rio dei Giardini                                            
+2486,GIAR2 ,Rio dei Giardini                                            
+2487,GIAR3 ,Rio dei Giardini                                            
+2488,ELEN  ,Rio de S. Elena                                             
+2489,ELEN  ,Rio de S. Elena                                             
+2490,MARI1 ,Rio de S. Marina                                            
+2491,ORIO1 ,Rio de S. Giacomo dell'Orio                                 
+2492,VERO2 ,Rio Menuo o de la Verona                                    
+2493,SCOM1 ,Canal de la Scomenzera                                      
+2494,SCOM1 ,Canal de la Scomenzera                                      
+2495,SCOM1 ,Canal de la Scomenzera                                      
+2496,GRAN4,Canal Grande
+2497,GRAN4,Canal Grande
+2498,APOS2 ,Rio dei Ss. Apostoli                                        
+2499,APOS1 ,Rio dei Ss. Apostoli                                        
+2500,WIDM1 ,Rio Widman                                                  
+2501,ORSE,Rio e Bacino Orseolo                                        
+2502,PROC  ,Rio de le Procuratie                                        
+2503,MUNE  ,Rio de le Muneghete                                         
+2504,ZECA  ,Rio de la Luna o dei Giardinetti                            
+2505,WIDM2 ,Rio Widman                                                  
+3001,PLON1 ,Rio del Ponte Longo                                         
+3002,PLON2 ,Rio del Ponte Longo                                         
+3003,EUFE1 ,Rio de S. Eufemia                                           
+3004,EUFE2 ,Rio de S. Eufemia                                           
+3005,CONV  ,Rio de le Convertite                                        
+3006,BIAG1 ,Rio de San Biagio                                           
+3007,BIAG2 ,Rio de San Biagio                                           
+3008,SACF3 ,
+3009,2FIS  ,
+3010,SACF2 ,
+3011,1FIS  ,
+3012,SACF1 ,
+3013,SACB1 ,
+3014,SACB2 ,
+3029,PPIC3 ,Rio del Ponte Piccolo                                       
+3030,PPIC2 ,Rio del Ponte Piccolo                                       
+3031,PPIC1 ,Rio del Ponte Piccolo                                       
+3032,MORT  ,Rio Morto                                                   
+3033,PALA,Rio de la Palada                                            
+3096,CROC  ,Rio de la Croce                                             
+3097,CROC  ,Rio de la Croce                                             
+3098,GIOR1 ,Canal de San Giorgio Maggior                               
+3099,CINI  ,Canal Cini                                                 
+3100,GIOR2 ,Canal de San Giorgio Maggior                               
+3101,LAVR  ,Rio dei Lavraneri                                           
+3102,LAVR  ,Rio dei Lavraneri                                           

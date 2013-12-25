@@ -1,0 +1,3334 @@
+{|class="wikitable sortable"
+|-
+! Segment Name
+! Canal Name
+! Length (m)
+! Area (m^2)
+! Average Width (m)
+! Minimum Width (m)
+|-
+| [[Segment MOND3]]
+| [[Rio del Mondo Novo]]
+| 72.4
+| 519.621
+| 7.2
+| 5.6
+|-
+| [[Segment MOND2]]
+| [[Rio del Mondo Novo]]
+| 124.91
+| 1130.76
+| 9.1
+| 7.4
+|-
+| [[Segment LUNA]]
+| [[Rio de la Luna o dei Giardinetti]]
+| 67.0
+| 511.942
+| 7.6
+| 5.6
+|-
+| [[Segment MOND1]]
+| [[Rio del Mondo Novo]]
+| 33.86
+| 193.49
+| 5.7
+| 4.6
+|-
+| [[Segment ZULI]]
+| [[Rio de S. Zulian]]
+| 193.19
+| 1656.5
+| 8.6
+| 4.6
+|-
+| [[Segment GHET]]
+| [[Rio del Ghetto Novo]]
+| 196.29
+| 1687.39
+| 8.6
+| 5.2
+|-
+| [[Segment MALA01]]
+| 
+| 729.63
+| 11194.06
+| 15.3
+| 11.6
+|-
+| [[Segment MALA02]]
+| 
+| 56.79
+| 931.846
+| 16.4
+| 13.4
+|-
+| [[Segment GIAR3]]
+| [[Rio dei Giardini]]
+| 359.21
+| 6396.94
+| 17.8
+| 11.8
+|-
+| [[Segment GESU1]]
+| [[Rio dei Gesuiti]]
+| 128.39
+| 2329.79
+| 18.1
+| 16.2
+|-
+| [[Segment GESU2]]
+| [[Rio dei Gesuiti]]
+| 44.03
+| 455.708
+| 10.4
+| 8.0
+|-
+| [[Segment 2FIS]]
+| [[Rio secondo de Sacca Fisola]]
+| 108.37
+| 1225.3
+| 11.3
+| 4.4
+|-
+| [[Segment VEMA05]]
+| 
+| 418.2
+| 118560.28
+| 283.5
+| 
+|-
+| [[Segment VEMA06]]
+| 
+| 293.9
+| 99038.46
+| 336.98
+| 
+|-
+| [[Segment OGNI3]]
+| [[Rio dei Ognisanti]]
+| 139.52
+| 1925.79
+| 13.8
+| 8.4
+|-
+| [[Segment SANT]]
+| [[Rio del Santissimo]]
+| 275.27
+| 1596.39
+| 5.8
+| 3.8
+|-
+| [[Segment CDON01]]
+| 
+| 247.94
+| 6344.0
+| 25.6
+| 17.8
+|-
+| [[Segment ZANI]]
+| [[Rio de S. Zaninovo o del Remedio]]
+| 202.82
+| 892.432
+| 4.4
+| 3.4
+|-
+| [[Segment CDON02]]
+| 
+| 430.26
+| 8922.13
+| 20.7
+| 14.1
+|-
+| [[Segment BECA2]]
+| [[Rio de le Becarie]]
+| 13.22
+| 74.3441
+| 5.6
+| 3.6
+|-
+| [[Segment BECA1]]
+| [[Rio de le Becarie]]
+| 241.24
+| 1089.27
+| 4.5
+| 2.6
+|-
+| [[Segment DEGO3]]
+| [[Rio de S. Zan Degolà]]
+| 7.63
+| 61.5121
+| 8.2
+| 7.4
+|-
+| [[Segment DEGO4]]
+| [[Rio de S. Zan Degolà]]
+| 207.21
+| 1736.88
+| 8.4
+| 5.2
+|-
+| [[Segment DEGO1]]
+| [[Rio de S. Zan Degolà]]
+| 115.44
+| 748.506
+| 6.5
+| 4.4
+|-
+| [[Segment TPER01]]
+| 
+| 346.23
+| 4704.4
+| 13.6
+| 12.3
+|-
+| [[Segment DEGO2]]
+| [[Rio de S. Zan Degolà]]
+| 39.16
+| 279.815
+| 7.1
+| 5.4
+|-
+| [[Segment PANA1]]
+| [[Rio de la Panada]]
+| 119.72
+| 1400.42
+| 11.7
+| 8.6
+|-
+| [[Segment ORTO1]]
+| [[Rio de la Madona de l'Orto]]
+| 177.12
+| 1800.91
+| 10.2
+| 8.0
+|-
+| [[Segment GIRO]]
+| [[Rio de S. Girolamo]]
+| 389.16
+| 4749.65
+| 12.2
+| 7.6
+|-
+| [[Segment PANA3]]
+| [[Rio de la Panada]]
+| 84.99
+| 565.208
+| 6.6
+| 4.0
+|-
+| [[Segment PANA2]]
+| [[Rio de la Panada]]
+| 222.49
+| 1142.44
+| 5.1
+| 3.8
+|-
+| [[Segment ORTO2]]
+| [[Rio de la Madona de l'Orto]]
+| 171.13
+| 2185.9
+| 12.8
+| 9.2
+|-
+| [[Segment ORTO3]]
+| [[Rio de la Madona de l'Orto]]
+| 19.58
+| 223.044
+| 11.4
+| 10.6
+|-
+| [[Segment VERO2]]
+| [[Rio Menuo o de la Verona]]
+| 72.85
+| 309.524
+| 4.3
+| 3.0
+|-
+| [[Segment VERO1]]
+| [[Rio Menuo o de la Verona]]
+| 165.42
+| 872.133
+| 5.3
+| 3.6
+|-
+| [[Segment MUTI]]
+| [[Rio dei Muti]]
+| 75.91
+| 630.505
+| 8.3
+| 7.8
+|-
+| [[Segment GARZ]]
+| [[Rio de Ca' Garzoni]]
+| 182.07
+| 1049.75
+| 5.8
+| 3.8
+|-
+| [[Segment SALU1]]
+| [[Rio de la Salute]]
+| 89.91
+| 648.87
+| 7.2
+| 5.8
+|-
+| [[Segment SALU2]]
+| [[Rio de la Salute]]
+| 95.93
+| 648.886
+| 6.8
+| 5.0
+|-
+| [[Segment CAZZ]]
+| [[Rio de la Cazziola e de Ca' Rizzi]]
+| 229.01
+| 1544.12
+| 6.7
+| 3.0
+|-
+| [[Segment ANTO]]
+| [[Rio de S. Antonin]]
+| 263.23
+| 2876.71
+| 10.9
+| 7.6
+|-
+| [[Segment PPIC3]]
+| [[Rio del Ponte Piccolo]]
+| 83.88
+| 1375.69
+| 16.4
+| 9.4
+|-
+| [[Segment VEST1]]
+| [[Rio de la Veste]]
+| 36.68
+| 303.405
+| 8.3
+| 3.2
+|-
+| [[Segment PPIC2]]
+| [[Rio del Ponte Piccolo]]
+| 87.53
+| 1281.02
+| 14.6
+| 10.4
+|-
+| [[Segment ISEP1]]
+| [[Rio de S. Isepo]]
+| 283.41
+| 2309.23
+| 8.1
+| 6.2
+|-
+| [[Segment VEST3]]
+| [[Rio de la Veste]]
+| 123.29
+| 591.623
+| 4.8
+| 3.2
+|-
+| [[Segment BASS01]]
+| 
+| 273.58
+| 4777.15
+| 17.5
+| 7.9
+|-
+| [[Segment ISEP2]]
+| [[Rio de S. Isepo]]
+| 103.06
+| 996.199
+| 9.7
+| 6.6
+|-
+| [[Segment VEST2]]
+| [[Rio de la Veste]]
+| 35.52
+| 374.374
+| 10.5
+| 7.2
+|-
+| [[Segment BASS02]]
+| 
+| 132.32
+| 1606.1
+| 12.1
+| 7.6
+|-
+| [[Segment MAGG3]]
+| [[Rio de S. Maria Maggior]]
+| 57.35
+| 723.481
+| 12.6
+| 11.4
+|-
+| [[Segment MAGG2]]
+| [[Rio de S. Maria Maggior]]
+| 74.61
+| 880.481
+| 11.8
+| 10.8
+|-
+| [[Segment MAGG1]]
+| [[Rio de S. Maria Maggior]]
+| 169.58
+| 1438.73
+| 8.5
+| 8.0
+|-
+| [[Segment SCOM1]]
+| [[Canal de la Scomenzera]]
+| 596.05
+| 28186.84
+| 47.3
+| 34.8
+|-
+| [[Segment SEVE2]]
+| [[Rio de S. Severo]]
+| 198.75
+| 1671.28
+| 8.4
+| 4.2
+|-
+| [[Segment SEVE1]]
+| [[Rio de S. Severo]]
+| 73.84
+| 469.569
+| 6.4
+| 5.2
+|-
+| [[Segment PPIC1]]
+| [[Rio del Ponte Piccolo]]
+| 146.63
+| 1387.86
+| 9.5
+| 6.4
+|-
+| [[Segment SCOM2]]
+| [[Canal de la Scomenzera]]
+| 186.42
+| 9783.69
+| 52.5
+| 49.0
+|-
+| [[Segment ARZE1]]
+| [[Rio de l'Arzere e de S. Marta]]
+| 104.21
+| 2108.77
+| 20.2
+| 15.4
+|-
+| [[Segment ARZE2]]
+| [[Rio de l'Arzere e de S. Marta]]
+| 60.06
+| 909.2
+| 15.1
+| 12.4
+|-
+| [[Segment ARZE3]]
+| [[Rio de l'Arzere e de S. Marta]]
+| 55.64
+| 2180.03
+| 39.2
+| 16.6
+|-
+| [[Segment FOSC1]]
+| [[Rio de S. Fosca]]
+| 8.19
+| 78.2611
+| 9.5
+| 9.2
+|-
+| [[Segment FOSC2]]
+| [[Rio de S. Fosca]]
+| 138.68
+| 1470.57
+| 10.6
+| 7.0
+|-
+| [[Segment ARZE4]]
+| [[Rio de l'Arzere e de S. Marta]]
+| 108.89
+| 2411.83
+| 22.1
+| 16.0
+|-
+| [[Segment ELEN]]
+| [[Rio de S. Elena]]
+| 459.93
+| 5751.72
+| 12.5
+| 9.4
+|-
+| [[Segment TOLA2]]
+| [[Rio de la Toletta]]
+| 123.64
+| 575.29
+| 4.7
+| 2.4
+|-
+| [[Segment BATE1]]
+| [[Rio del Batelo]]
+| 472.59
+| 4539.65
+| 9.6
+| 5.4
+|-
+| [[Segment BATE2]]
+| [[Rio del Batelo]]
+| 45.14
+| 830.28
+| 18.4
+| 15.8
+|-
+| [[Segment TOLA1]]
+| [[Rio de la Toletta]]
+| 67.73
+| 370.738
+| 5.5
+| 3.2
+|-
+| [[Segment MEGI1]]
+| [[Rio del Megio]]
+| 187.24
+| 1115.26
+| 6.0
+| 2.8
+|-
+| [[Segment BARE2]]
+| [[Rio dei Bareteri]]
+| 6.88
+| 45.6974
+| 6.7
+| 6.3
+|-
+| [[Segment MEGI3]]
+| [[Rio del Megio]]
+| 30.51
+| 406.05
+| 13.3
+| 7.8
+|-
+| [[Segment TETT1]]
+| [[Rio de la Tetta]]
+| 39.95
+| 264.294
+| 6.6
+| 4.2
+|-
+| [[Segment MEGI2]]
+| [[Rio del Megio]]
+| 104.88
+| 782.551
+| 7.5
+| 4.4
+|-
+| [[Segment TETT2]]
+| [[Rio de la Tetta]]
+| 143.71
+| 1108.88
+| 7.7
+| 5.2
+|-
+| [[Segment MOCE]]
+| [[Rio Mocenigo o de la Rioda o de S. Stae]]
+| 272.43
+| 1090.16
+| 4.0
+| 2.0
+|-
+| [[Segment FERA1]]
+| [[Rio dei Ferali]]
+| 35.47
+| 179.74
+| 5.1
+| 4.2
+|-
+| [[Segment FUOC01]]
+| 
+| 136.53
+| 2464.98
+| 17.1
+| 14.0
+|-
+| [[Segment FERA2]]
+| [[Rio dei Ferali]]
+| 136.44
+| 668.174
+| 4.9
+| 2.7
+|-
+| [[Segment 1FIS]]
+| [[Rio primo de Sacca Fisola]]
+| 165.75
+| 3311.82
+| 20.0
+| 12.6
+|-
+| [[Segment FORM]]
+| [[Rio de S.M. Formosa]]
+| 164.58
+| 1042.09
+| 6.3
+| 3.2
+|-
+| [[Segment CATM01]]
+| 
+| 
+| 7931.76
+| 19.9
+| 15.2
+|-
+| [[Segment APON1]]
+| [[Rio de S. Aponal]]
+| 59.56
+| 389.221
+| 6.5
+| 4.6
+|-
+| [[Segment NICO1]]
+| [[Rio de S. Nicolò dei Mendicoli]]
+| 172.67
+| 1464.0
+| 8.5
+| 6.2
+|-
+| [[Segment NICO2]]
+| [[Rio de S. Nicolò dei Mendicoli]]
+| 65.36
+| 818.481
+| 12.5
+| 11.0
+|-
+| [[Segment APON2]]
+| [[Rio de S. Aponal]]
+| 35.09
+| 198.721
+| 5.7
+| 4.2
+|-
+| [[Segment DOMI]]
+| [[Rio de S. Maria Mater Domini]]
+| 282.98
+| 1606.47
+| 5.7
+| 4.0
+|-
+| [[Segment MARG]]
+| [[Rio de S. Margherita]]
+| 279.08
+| 3117.38
+| 11.2
+| 6.6
+|-
+| [[Segment DROM02]]
+| 
+| 178.5
+| 4181.29
+| 23.4
+| 15.5
+|-
+| [[Segment DROM01]]
+| 
+| 378.9
+| 12294.81
+| 32.4
+| 10.5
+|-
+| [[Segment EUFE2]]
+| [[Rio de S. Eufemia]]
+| 228.2
+| 2055.94
+| 9.0
+| 6.8
+|-
+| [[Segment EUFE1]]
+| [[Rio de S. Eufemia]]
+| 129.56
+| 1113.12
+| 8.6
+| 7.6
+|-
+| [[Segment SVEV01]]
+| 
+| 305.17
+| 6161.85
+| 20.2
+| 15.0
+|-
+| [[Segment RACH2]]
+| [[Rio de la Racheta]]
+| 72.31
+| 352.15
+| 4.9
+| 3.8
+|-
+| [[Segment BRAZ]]
+| [[Rio Brazzo]]
+| 72.51
+| 578.459
+| 8.0
+| 6.6
+|-
+| [[Segment RACH1]]
+| [[Rio de la Racheta]]
+| 69.55
+| 291.213
+| 4.2
+| 3.2
+|-
+| [[Segment MARN]]
+| [[Rio Marin]]
+| 331.65
+| 2684.89
+| 8.1
+| 5.2
+|-
+| [[Segment BARC1]]
+| [[Rio dei Barcaroli]]
+| 27.03
+| 158.096
+| 5.9
+| 5.4
+|-
+| [[Segment BARC2]]
+| [[Rio dei Barcaroli]]
+| 103.53
+| 871.08
+| 8.4
+| 5.4
+|-
+| [[Segment GRIS1]]
+| [[Rio de S.Giovanni Grisostomo]]
+| 141.26
+| 644.731
+| 4.6
+| 2.4
+|-
+| [[Segment BUCI]]
+| [[Canal Bucintoro]]
+| 
+| 1154.26
+| 18.8
+| 18.8
+|-
+| [[Segment GRIS2]]
+| [[Rio de S.Giovanni Grisostomo]]
+| 77.95
+| 441.995
+| 5.7
+| 3.2
+|-
+| [[Segment BARE1]]
+| [[Rio dei Bareteri]]
+| 96.44
+| 683.714
+| 7.1
+| 3.8
+|-
+| [[Segment CANA01]]
+| 
+| 246.83
+| 2825.31
+| 11.4
+| 9.9
+|-
+| [[Segment GIOB]]
+| [[Rio de S. Giobbe]]
+| 274.35
+| 1647.87
+| 6.0
+| 3.2
+|-
+| [[Segment MICH]]
+| [[Rio de Ca' Michiel]]
+| 103.87
+| 484.13
+| 4.7
+| 2.9
+|-
+| [[Segment PERG]]
+| [[Rio de la Pergola o de Ca' Pesaro]]
+| 279.39
+| 1248.32
+| 4.5
+| 2.8
+|-
+| [[Segment SALV]]
+| [[Rio de S. Salvador]]
+| 216.53
+| 1071.78
+| 5.0
+| 2.8
+|-
+| [[Segment CAND01]]
+| 
+| 758.55
+| 14743.67
+| 19.4
+| 9.0
+|-
+| [[Segment MRTI1]]
+| [[Rio de San Martin]]
+| 20.52
+| 105.177
+| 5.1
+| 4.2
+|-
+| [[Segment MRTI2]]
+| [[Rio de San Martin]]
+| 87.04
+| 316.652
+| 3.6
+| 2.6
+|-
+| [[Segment AVOG]]
+| [[Rio de l'Avogaria]]
+| 185.82
+| 1646.41
+| 8.9
+| 5.6
+|-
+| [[Segment TRAS]]
+| [[Rio dei Trasti]]
+| 74.89
+| 483.778
+| 6.5
+| 5.2
+|-
+| [[Segment CTEO01]]
+| 
+| 324.37
+| 4720.12
+| 14.5
+| 9.9
+|-
+| [[Segment TRNC01]]
+| 
+| 999.9
+| 186365.42
+| 186.38
+| 
+|-
+| [[Segment DELE01]]
+| 
+| 419.6
+| 65553.04
+| 156.23
+| 
+|-
+| [[Segment PLON2]]
+| [[Rio del Ponte Longo]]
+| 140.69
+| 5494.52
+| 39.1
+| 27.4
+|-
+| [[Segment PLON1]]
+| [[Rio del Ponte Longo]]
+| 129.78
+| 3812.67
+| 29.4
+| 17.8
+|-
+| [[Segment ACCA1]]
+| [[Canal Grande]]
+| 16.6
+| 83.5462
+| 5.1
+| 4.9
+|-
+| [[Segment ACCA2]]
+| [[Canal Grande]]
+| 10.49
+| 75.9319
+| 7.2
+| 7.1
+|-
+| [[Segment TRAP]]
+| [[Rio del Trapolin]]
+| 175.5
+| 1280.78
+| 7.3
+| 4.4
+|-
+| [[Segment ANZO1]]
+| [[Rio de S. Anzolo]]
+| 74.57
+| 459.733
+| 6.2
+| 4.6
+|-
+| [[Segment SECO02]]
+| 
+| 312.9
+| 36221.48
+| 115.76
+| 
+|-
+| [[Segment SECO03]]
+| 
+| 202.6
+| 33198.51
+| 163.86
+| 
+|-
+| [[Segment LATE1]]
+| [[Rio de S. Giovanni Laterano]]
+| 174.51
+| 1221.16
+| 7.0
+| 5.2
+|-
+| [[Segment ZOBE]]
+| [[Rio de S.M. Zobenigo]]
+| 201.05
+| 1040.12
+| 5.2
+| 3.6
+|-
+| [[Segment LATE2]]
+| [[Rio de S. Giovanni Laterano]]
+| 82.69
+| 909.077
+| 11.0
+| 9.0
+|-
+| [[Segment MAUR]]
+| [[Rio de S. Maurizio e rio Malatin]]
+| 256.32
+| 1092.91
+| 4.3
+| 1.2
+|-
+| [[Segment BRIA]]
+| [[Rio Briati]]
+| 130.33
+| 1658.37
+| 12.7
+| 9.0
+|-
+| [[Segment FNUO10]]
+| 
+| 153.5
+| 8957.76
+| 58.36
+| 
+|-
+| [[Segment FNUO11]]
+| 
+| 999.9
+| 71699.86
+| 71.71
+| 
+|-
+| [[Segment MARC1]]
+| [[Rio de S. Marcuola]]
+| 39.51
+| 200.208
+| 5.1
+| 4.0
+|-
+| [[Segment MARC2]]
+| [[Rio de S. Marcuola]]
+| 97.81
+| 627.667
+| 6.4
+| 4.4
+|-
+| [[Segment ORIO3]]
+| [[Rio de S. Giacomo dell'Orio]]
+| 103.93
+| 910.587
+| 8.8
+| 6.8
+|-
+| [[Segment MARC3]]
+| [[Rio de S. Marcuola]]
+| 46.36
+| 319.03
+| 6.9
+| 6.4
+|-
+| [[Segment ORIO2]]
+| [[Rio de S. Giacomo dell'Orio]]
+| 51.32
+| 276.549
+| 5.4
+| 4.0
+|-
+| [[Segment ORIO1]]
+| [[Rio de S. Giacomo dell'Orio]]
+| 51.61
+| 395.008
+| 7.7
+| 4.4
+|-
+| [[Segment ORSO]]
+| [[Rio de l'Orso]]
+| 92.13
+| 413.839
+| 4.5
+| 3.7
+|-
+| [[Segment TROV2]]
+| [[Rio de S. Trovaso]]
+| 261.92
+| 2493.49
+| 9.5
+| 5.2
+|-
+| [[Segment TROV1]]
+| [[Rio de S. Trovaso]]
+| 13.94
+| 135.691
+| 9.8
+| 8.0
+|-
+| [[Segment TROV3]]
+| [[Rio de S. Trovaso]]
+| 48.7
+| 708.794
+| 14.6
+| 13.0
+|-
+| [[Segment ORSE]]
+| [[Rio e Bacino Orseolo]]
+| 120.11
+| 1140.17
+| 9.5
+| 4.0
+|-
+| [[Segment ANZO2]]
+| [[Rio de S. Anzolo]]
+| 34.22
+| 176.823
+| 5.2
+| 3.0
+|-
+| [[Segment TEDE]]
+| [[Rio del Fontego dei Tedeschi]]
+| 110.39
+| 875.784
+| 7.9
+| 5.6
+|-
+| [[Segment VERG2]]
+| [[Rio de le Vergini]]
+| 71.2
+| 863.452
+| 12.1
+| 9.2
+|-
+| [[Segment LUST]]
+| [[Rio dei Lustraferi]]
+| 76.29
+| 435.68
+| 5.7
+| 4.4
+|-
+| [[Segment VERG1]]
+| [[Rio de le Vergini]]
+| 57.5
+| 894.084
+| 15.5
+| 9.6
+|-
+| [[Segment GRIM1]]
+| [[Rio Grimani]]
+| 37.56
+| 183.626
+| 4.9
+| 4.0
+|-
+| [[Segment GRIM2]]
+| [[Rio Grimani]]
+| 42.18
+| 276.603
+| 6.6
+| 5.0
+|-
+| [[Segment GIOR1]]
+| [[Canal de San Giorgio Maggior]]
+| 210.05
+| 12723.48
+| 60.6
+| 42.6
+|-
+| [[Segment GIOR2]]
+| [[Canal de San Giorgio Maggior]]
+| 200.33
+| 13146.61
+| 65.6
+| 60.0
+|-
+| [[Segment ZUAN]]
+| [[Rio de S. Zuane Evangelista]]
+| 218.09
+| 1206.27
+| 5.5
+| 3.8
+|-
+| [[Segment GOZZ]]
+| [[Rio del Gozzi]]
+| 163.49
+| 1170.98
+| 7.2
+| 4.8
+|-
+| [[Segment CHIA1]]
+| [[Canal de S. Chiara]]
+| 214.33
+| 5866.43
+| 27.4
+| 18.8
+|-
+| [[Segment PIOM1]]
+| [[Rio del Piombo]]
+| 97.17
+| 377.98
+| 3.9
+| 2.8
+|-
+| [[Segment CHIA2]]
+| [[Canal de S. Chiara]]
+| 120.13
+| 4883.01
+| 40.7
+| 34.0
+|-
+| [[Segment PIOM2]]
+| [[Rio del Piombo]]
+| 175.52
+| 798.343
+| 4.5
+| 1.8
+|-
+| [[Segment TREP3]]
+| [[Rio dei Tre Ponti]]
+| 36.7
+| 476.602
+| 13.0
+| 11.2
+|-
+| [[Segment TREP2]]
+| [[Rio dei Tre Ponti]]
+| 51.37
+| 539.745
+| 10.5
+| 8.2
+|-
+| [[Segment TREP1]]
+| [[Rio dei Tre Ponti]]
+| 13.04
+| 137.984
+| 10.6
+| 10.0
+|-
+| [[Segment SECO01]]
+| 
+| 87.9
+| 6041.37
+| 68.73
+| 
+|-
+| [[Segment ZIRA1]]
+| [[Rio de Sant'Andrea de la Zirada]]
+| 57.68
+| 404.316
+| 7.0
+| 6.2
+|-
+| [[Segment WIDM3]]
+| [[Rio Widman]]
+| 34.25
+| 247.324
+| 7.2
+| 4.8
+|-
+| [[Segment ZIRA2]]
+| [[Rio de Sant'Andrea de la Zirada]]
+| 65.61
+| 565.458
+| 8.6
+| 8.1
+|-
+| [[Segment WIDM1]]
+| [[Rio Widman]]
+| 114.93
+| 782.408
+| 6.8
+| 4.8
+|-
+| [[Segment WIDM2]]
+| [[Rio Widman]]
+| 22.26
+| 157.112
+| 7.0
+| 5.6
+|-
+| [[Segment CASS2]]
+| [[Rio de S. Cassan]]
+| 62.59
+| 309.273
+| 4.9
+| 4.0
+|-
+| [[Segment MADA2]]
+| [[Rio de la Madalena]]
+| 203.6
+| 1231.21
+| 6.0
+| 4.0
+|-
+| [[Segment MADA1]]
+| [[Rio de la Madalena]]
+| 24.72
+| 252.988
+| 10.2
+| 5.8
+|-
+| [[Segment CASS1]]
+| [[Rio de S. Cassan]]
+| 251.9
+| 1264.35
+| 5.0
+| 3.2
+|-
+| [[Segment 2TOR1]]
+| [[Rio de le Do Torre]]
+| 18.39
+| 107.022
+| 5.8
+| 5.4
+|-
+| [[Segment 2TOR2]]
+| [[Rio de le Do Torre]]
+| 49.32
+| 291.769
+| 5.9
+| 3.6
+|-
+| [[Segment QUIN]]
+| [[Rio de Quintavale]]
+| 195.88
+| 6781.81
+| 34.6
+| 12.8
+|-
+| [[Segment TEOD02]]
+| 
+| 106.28
+| 2211.88
+| 20.8
+| 5.9
+|-
+| [[Segment ROMI]]
+| [[Rio de le Romite]]
+| 176.92
+| 1254.14
+| 7.1
+| 4.8
+|-
+| [[Segment PARM01]]
+| 
+| 204.36
+| 1417.38
+| 6.9
+| 6.1
+|-
+| [[Segment TEOD01]]
+| 
+| 92.95
+| 1155.52
+| 12.4
+| 7.5
+|-
+| [[Segment SEBA]]
+| [[Rio de S. Sebastian e S. Basegio]]
+| 256.99
+| 2764.92
+| 10.8
+| 8.4
+|-
+| [[Segment CAFO1]]
+| [[Rio de Ca' Foscari]]
+| 57.71
+| 659.861
+| 11.4
+| 7.6
+|-
+| [[Segment CAFO2]]
+| [[Rio de Ca' Foscari]]
+| 237.05
+| 3493.03
+| 14.7
+| 9.8
+|-
+| [[Segment VIO]]
+| [[Rio de S. Vio]]
+| 267.64
+| 2353.67
+| 8.8
+| 5.8
+|-
+| [[Segment NOVO1]]
+| [[Rio Novo]]
+| 170.77
+| 3297.04
+| 19.3
+| 15.4
+|-
+| [[Segment OGNI2]]
+| [[Rio dei Ognisanti]]
+| 49.02
+| 596.191
+| 12.2
+| 7.2
+|-
+| [[Segment OGNI1]]
+| [[Rio dei Ognisanti]]
+| 193.84
+| 1636.05
+| 8.4
+| 5.4
+|-
+| [[Segment CREA2]]
+| [[Rio de la Crea]]
+| 208.93
+| 2031.59
+| 9.7
+| 5.8
+|-
+| [[Segment VIN]]
+| [[Rio del Vin]]
+| 232.2
+| 1351.29
+| 5.8
+| 1.6
+|-
+| [[Segment GIUS]]
+| [[Rio de S. Giustina]]
+| 225.5
+| 3395.14
+| 15.1
+| 9.2
+|-
+| [[Segment CREA1]]
+| [[Rio de la Crea]]
+| 266.87
+| 1496.24
+| 5.6
+| 3.6
+|-
+| [[Segment MAVA01]]
+| 
+| 
+| 2146.1
+| 9.9
+| 3.8
+|-
+| [[Segment CREA3]]
+| [[Rio de la Crea]]
+| 94.36
+| 1125.32
+| 11.9
+| 7.6
+|-
+| [[Segment DEM101]]
+| 
+| 39.3
+| 740.586
+| 18.9
+| 17.3
+|-
+| [[Segment NOVO3]]
+| [[Rio Novo]]
+| 33.74
+| 971.659
+| 28.8
+| 16.0
+|-
+| [[Segment NOVO2]]
+| [[Rio Novo]]
+| 53.47
+| 1166.43
+| 21.8
+| 18.2
+|-
+| [[Segment NOVO4]]
+| [[Rio Novo]]
+| 236.28
+| 3522.17
+| 14.9
+| 11.4
+|-
+| [[Segment ONGA01]]
+| 
+| 329.02
+| 6004.48
+| 18.2
+| 9.6
+|-
+| [[Segment GRAN8]]
+| [[Canal Grande]]
+| 135.91
+| 6499.38
+| 47.8
+| 30.0
+|-
+| [[Segment GRAN9]]
+| [[Canal Grande]]
+| 60.96
+| 2843.98
+| 46.6
+| 40.8
+|-
+| [[Segment GRAN3]]
+| [[Canal Grande]]
+| 82.2
+| 3498.94
+| 42.6
+| 36.2
+|-
+| [[Segment GRAN2]]
+| [[Canal Grande]]
+| 199.46
+| 15761.78
+| 79.0
+| 41.8
+|-
+| [[Segment DUCA]]
+| [[Rio del Duca o de S. Vidal]]
+| 337.62
+| 1561.83
+| 4.6
+| 2.4
+|-
+| [[Segment SCOA2]]
+| [[Rio dei Scoacamini]]
+| 25.61
+| 208.299
+| 8.1
+| 7.0
+|-
+| [[Segment TASS01]]
+| 
+| 228.08
+| 2892.57
+| 12.7
+| 8.6
+|-
+| [[Segment GRAN1]]
+| [[Canal Grande]]
+| 362.88
+| 28096.82
+| 77.4
+| 44.6
+|-
+| [[Segment CANN1]]
+| [[Canal de Cannaregio]]
+| 207.38
+| 4908.8
+| 23.7
+| 20.4
+|-
+| [[Segment GRAN7]]
+| [[Canal Grande]]
+| 73.44
+| 4158.44
+| 56.6
+| 46.6
+|-
+| [[Segment CANN3]]
+| [[Canal de Cannaregio]]
+| 352.46
+| 7152.76
+| 20.3
+| 16.2
+|-
+| [[Segment GRAN6]]
+| [[Canal Grande]]
+| 193.73
+| 9526.99
+| 49.2
+| 39.2
+|-
+| [[Segment CANN2]]
+| [[Canal de Cannaregio]]
+| 96.77
+| 2401.18
+| 24.8
+| 22.2
+|-
+| [[Segment GRAN5]]
+| [[Canal Grande]]
+| 91.2
+| 3983.99
+| 43.7
+| 40.6
+|-
+| [[Segment GRAN4]]
+| [[Canal Grande]]
+| 296.11
+| 14249.51
+| 48.1
+| 34.0
+|-
+| [[Segment CANN4]]
+| [[Canal de Cannaregio]]
+| 124.92
+| 2589.12
+| 20.7
+| 14.8
+|-
+| [[Segment ANDR2]]
+| [[Rio de S. Andrea]]
+| 37.32
+| 309.772
+| 8.3
+| 7.0
+|-
+| [[Segment ANDR1]]
+| [[Rio de S. Andrea]]
+| 72.11
+| 567.635
+| 7.9
+| 6.2
+|-
+| [[Segment PONT01]]
+| 
+| 181.68
+| 1505.86
+| 8.3
+| 4.8
+|-
+| [[Segment MARI2]]
+| [[Rio de S. Marina]]
+| 16.03
+| 180.108
+| 11.3
+| 9.0
+|-
+| [[Segment MARI1]]
+| [[Rio de S. Marina]]
+| 86.47
+| 769.749
+| 8.9
+| 6.4
+|-
+| [[Segment CMIS2]]
+| [[Canal de la Misericordia]]
+| 94.11
+| 2235.0
+| 23.8
+| 16.6
+|-
+| [[Segment CMIS3]]
+| [[Canal de la Misericordia]]
+| 39.22
+| 1329.34
+| 33.9
+| 1.2
+|-
+| [[Segment CMIS1]]
+| [[Canal de la Misericordia]]
+| 107.19
+| 1600.86
+| 14.9
+| 14.6
+|-
+| [[Segment MARI4]]
+| [[Rio de S. Marina]]
+| 21.52
+| 405.743
+| 18.9
+| 16.8
+|-
+| [[Segment TERE1]]
+| [[Rio de le Terese]]
+| 64.69
+| 1428.95
+| 22.1
+| 16.8
+|-
+| [[Segment MARI3]]
+| [[Rio de S. Marina]]
+| 40.11
+| 450.478
+| 11.2
+| 9.2
+|-
+| [[Segment SCOA1]]
+| [[Rio dei Scoacamini]]
+| 99.59
+| 630.938
+| 6.3
+| 4.4
+|-
+| [[Segment TERE2]]
+| [[Rio de le Terese]]
+| 153.02
+| 1941.93
+| 12.7
+| 7.2
+|-
+| [[Segment PANT]]
+| [[Rio de S. Pantalon]]
+| 112.08
+| 1216.21
+| 10.8
+| 6.8
+|-
+| [[Segment BACI01]]
+| 
+| 273.6
+| 93212.02
+| 340.69
+| 
+|-
+| [[Segment BACI02]]
+| 
+| 68.7
+| 29737.48
+| 432.86
+| 
+|-
+| [[Segment BACI05]]
+| 
+| 228.8
+| 88555.54
+| 387.04
+| 
+|-
+| [[Segment BACI06]]
+| 
+| 44.6
+| 14510.44
+| 325.35
+| 
+|-
+| [[Segment BACI03]]
+| 
+| 96.3
+| 33438.22
+| 347.23
+| 
+|-
+| [[Segment DEMU01]]
+| 
+| 131.12
+| 1437.62
+| 11.0
+| 9.9
+|-
+| [[Segment BACI04]]
+| 
+| 78.2
+| 26883.06
+| 343.77
+| 
+|-
+| [[Segment BACI09]]
+| 
+| 86.9
+| 22902.81
+| 263.55
+| 
+|-
+| [[Segment BACI07]]
+| 
+| 119.4
+| 35712.33
+| 299.1
+| 
+|-
+| [[Segment BACI08]]
+| 
+| 64.8
+| 19071.14
+| 294.31
+| 
+|-
+| [[Segment FORN2]]
+| [[Rio de la Fornasa]]
+| 168.65
+| 1468.94
+| 8.7
+| 4.4
+|-
+| [[Segment PIER2]]
+| [[Canal de S. Piero]]
+| 208.62
+| 9544.91
+| 45.7
+| 32.4
+|-
+| [[Segment FORN1]]
+| [[Rio de la Fornasa]]
+| 104.28
+| 489.257
+| 4.7
+| 3.4
+|-
+| [[Segment PIER3]]
+| [[Canal de S. Piero]]
+| 104.13
+| 5169.23
+| 49.7
+| 36.4
+|-
+| [[Segment BURC]]
+| [[Rio de le Burchiele]]
+| 319.46
+| 2629.6
+| 8.2
+| 6.6
+|-
+| [[Segment CALA02]]
+| 
+| 199.2
+| 7257.87
+| 36.44
+| 
+|-
+| [[Segment GRAN40]]
+| [[Canal Grande]]
+| 157.06
+| 13822.16
+| 88.0
+| 68.4
+|-
+| [[Segment CALA01]]
+| 
+| 339.4
+| 14830.65
+| 43.7
+| 
+|-
+| [[Segment GRAN41]]
+| [[Canal Grande]]
+| 58.94
+| 7108.97
+| 120.7
+| 108.0
+|-
+| [[Segment CALA03]]
+| 
+| 154.8
+| 13658.9
+| 88.24
+| 
+|-
+| [[Segment SCUO01]]
+| 
+| 316.53
+| 3249.34
+| 10.3
+| 9.1
+|-
+| [[Segment ROVI01]]
+| 
+| 948.45
+| 10842.49
+| 11.4
+| 8.4
+|-
+| [[Segment PIER1]]
+| [[Canal de S. Piero]]
+| 141.92
+| 6619.19
+| 46.6
+| 27.4
+|-
+| [[Segment FORT01]]
+| 
+| 645.8
+| 7270.57
+| 11.3
+| 6.5
+|-
+| [[Segment FORT02]]
+| 
+| 357.87
+| 4565.29
+| 12.8
+| 9.7
+|-
+| [[Segment AGOS]]
+| [[Rio de S. Agostin]]
+| 130.1
+| 1523.22
+| 11.7
+| 6.4
+|-
+| [[Segment GERO]]
+| [[Rio de S. Gerolamo]]
+| 341.17
+| 3671.32
+| 10.8
+| 7.0
+|-
+| [[Segment ALBO]]
+| [[Rio de l'Alboro o de le Ostreghe]]
+| 168.91
+| 1073.33
+| 6.4
+| 4.6
+|-
+| [[Segment NAVI02]]
+| 
+| 481.2
+| 151845.99
+| 315.56
+| 
+|-
+| [[Segment GRAN31]]
+| [[Canal Grande]]
+| 71.65
+| 3432.77
+| 47.9
+| 39.2
+|-
+| [[Segment NAVI03]]
+| 
+| 50.5
+| 23130.05
+| 458.02
+| 
+|-
+| [[Segment GRAN32]]
+| [[Canal Grande]]
+| 30.33
+| 1501.08
+| 49.5
+| 46.0
+|-
+| [[Segment NAVI04]]
+| 
+| 256.9
+| 92151.7
+| 358.71
+| 
+|-
+| [[Segment NAVI05]]
+| 
+| 185.9
+| 42039.88
+| 226.14
+| 
+|-
+| [[Segment GRAN30]]
+| [[Canal Grande]]
+| 71.56
+| 4039.28
+| 56.4
+| 40.4
+|-
+| [[Segment NAVI06]]
+| 
+| 336.4
+| 68333.99
+| 203.13
+| 
+|-
+| [[Segment NAVI07]]
+| 
+| 277.7
+| 91275.39
+| 328.68
+| 
+|-
+| [[Segment GRAN39]]
+| [[Canal Grande]]
+| 36.9
+| 2446.69
+| 66.3
+| 61.2
+|-
+| [[Segment LIO]]
+| [[Rio de S. Lio]]
+| 89.31
+| 675.966
+| 7.6
+| 4.2
+|-
+| [[Segment GRAN37]]
+| [[Canal Grande]]
+| 34.0
+| 2334.09
+| 68.6
+| 65.8
+|-
+| [[Segment SERV1]]
+| [[Rio dei Servi]]
+| 85.34
+| 799.886
+| 9.4
+| 6.2
+|-
+| [[Segment GRAN38]]
+| [[Canal Grande]]
+| 88.71
+| 5971.95
+| 67.3
+| 58.4
+|-
+| [[Segment SERV2]]
+| [[Rio dei Servi]]
+| 137.23
+| 1478.3
+| 10.8
+| 7.6
+|-
+| [[Segment GRAN35]]
+| [[Canal Grande]]
+| 61.3
+| 3391.23
+| 55.3
+| 47.4
+|-
+| [[Segment GRAN36]]
+| [[Canal Grande]]
+| 134.21
+| 8489.97
+| 63.3
+| 48.8
+|-
+| [[Segment GRAN33]]
+| [[Canal Grande]]
+| 31.37
+| 1627.02
+| 51.8
+| 45.0
+|-
+| [[Segment NAVI01]]
+| 
+| 205.7
+| 53583.9
+| 260.5
+| 
+|-
+| [[Segment GRAN34]]
+| [[Canal Grande]]
+| 45.79
+| 2298.86
+| 50.2
+| 44.8
+|-
+| [[Segment PALA]]
+| [[Rio de la Palada]]
+| 158.62
+| 2540.53
+| 16.0
+| 10.6
+|-
+| [[Segment MORT]]
+| [[Rio Morto]]
+| 62.61
+| 389.613
+| 6.2
+| 4.6
+|-
+| [[Segment REAL]]
+| [[Rio de la Luna o dei Giardinetti]]
+| 122.17
+| 870.374
+| 7.1
+| 5.0
+|-
+| [[Segment GRAN20]]
+| [[Canal Grande]]
+| 139.32
+| 8182.63
+| 58.7
+| 47.4
+|-
+| [[Segment POLO1]]
+| [[Rio de S. Polo]]
+| 86.09
+| 505.713
+| 5.9
+| 4.4
+|-
+| [[Segment GRAN21]]
+| [[Canal Grande]]
+| 112.38
+| 7308.08
+| 65.0
+| 59.8
+|-
+| [[Segment BOLD2]]
+| [[Rio de S. Boldo]]
+| 37.84
+| 152.087
+| 4.0
+| 3.2
+|-
+| [[Segment BOLD1]]
+| [[Rio de S. Boldo]]
+| 26.46
+| 84.8232
+| 3.2
+| 2.2
+|-
+| [[Segment BOLD3]]
+| [[Rio de S. Boldo]]
+| 67.53
+| 380.203
+| 5.6
+| 4.0
+|-
+| [[Segment GRAN26]]
+| [[Canal Grande]]
+| 66.36
+| 4025.3
+| 60.6
+| 53.8
+|-
+| [[Segment GRAN27]]
+| [[Canal Grande]]
+| 48.2
+| 2503.87
+| 52.0
+| 47.4
+|-
+| [[Segment GRAN28]]
+| [[Canal Grande]]
+| 141.27
+| 7828.27
+| 55.4
+| 34.0
+|-
+| [[Segment GRAN29]]
+| [[Canal Grande]]
+| 48.55
+| 3088.72
+| 63.7
+| 52.8
+|-
+| [[Segment GRAN22]]
+| [[Canal Grande]]
+| 43.36
+| 2957.4
+| 68.1
+| 66.8
+|-
+| [[Segment MORO]]
+| [[Rio de Ca'Moro]]
+| 80.75
+| 1731.72
+| 21.4
+| 17.4
+|-
+| [[Segment GRAN23]]
+| [[Canal Grande]]
+| 49.86
+| 3552.61
+| 71.2
+| 65.2
+|-
+| [[Segment GRAN24]]
+| [[Canal Grande]]
+| 42.78
+| 3085.64
+| 72.1
+| 68.7
+|-
+| [[Segment GRAN25]]
+| [[Canal Grande]]
+| 92.95
+| 5761.43
+| 62.0
+| 54.2
+|-
+| [[Segment BACI10]]
+| 
+| 359.9
+| 87130.85
+| 242.1
+| 
+|-
+| [[Segment BACI11]]
+| 
+| 373.6
+| 99230.9
+| 265.61
+| 
+|-
+| [[Segment BACI12]]
+| 
+| 359.5
+| 136254.64
+| 379.01
+| 
+|-
+| [[Segment BACI13]]
+| 
+| 473.0
+| 247515.11
+| 523.29
+| 
+|-
+| [[Segment GORN]]
+| [[Rio de le Gorne]]
+| 307.82
+| 1973.09
+| 6.4
+| 2.8
+|-
+| [[Segment GRAN19]]
+| [[Canal Grande]]
+| 76.19
+| 4106.68
+| 53.9
+| 43.4
+|-
+| [[Segment BACI14]]
+| 
+| 235.5
+| 127423.59
+| 541.08
+| 
+|-
+| [[Segment POLO3]]
+| [[Rio de S. Polo]]
+| 90.55
+| 989.687
+| 10.9
+| 6.0
+|-
+| [[Segment BACI15]]
+| 
+| 210.5
+| 131141.95
+| 623.0
+| 
+|-
+| [[Segment POLO2]]
+| [[Rio de S. Polo]]
+| 53.67
+| 631.905
+| 11.8
+| 9.2
+|-
+| [[Segment BACI16]]
+| 
+| 302.2
+| 224524.63
+| 742.97
+| 
+|-
+| [[Segment POLO5]]
+| [[Rio de S. Polo]]
+| 9.86
+| 169.658
+| 19.9
+| 17.4
+|-
+| [[Segment POLO4]]
+| [[Rio de S. Polo]]
+| 76.03
+| 882.161
+| 11.6
+| 8.6
+|-
+| [[Segment GRAN14]]
+| [[Canal Grande]]
+| 124.14
+| 8417.5
+| 67.8
+| 45.0
+|-
+| [[Segment GRAN13]]
+| [[Canal Grande]]
+| 66.99
+| 4626.45
+| 69.0
+| 56.6
+|-
+| [[Segment GRAN12]]
+| [[Canal Grande]]
+| 28.27
+| 1704.9
+| 60.2
+| 53.2
+|-
+| [[Segment ARSE]]
+| [[Rio de l'Arsenal]]
+| 261.94
+| 3907.16
+| 14.9
+| 11.6
+|-
+| [[Segment GRAN11]]
+| [[Canal Grande]]
+| 67.24
+| 3883.8
+| 57.8
+| 51.6
+|-
+| [[Segment GRAN18]]
+| [[Canal Grande]]
+| 173.57
+| 7241.8
+| 41.7
+| 26.4
+|-
+| [[Segment GRAN17]]
+| [[Canal Grande]]
+| 103.16
+| 4723.93
+| 45.8
+| 26.4
+|-
+| [[Segment GRAN16]]
+| [[Canal Grande]]
+| 46.92
+| 2752.71
+| 58.7
+| 47.6
+|-
+| [[Segment GRAN15]]
+| [[Canal Grande]]
+| 112.84
+| 6631.25
+| 58.8
+| 47.4
+|-
+| [[Segment GRAN10]]
+| [[Canal Grande]]
+| 114.76
+| 6545.75
+| 57.0
+| 45.4
+|-
+| [[Segment BERN]]
+| [[Rielo S. Antonio-de Ca' Bernardo]]
+| 52.91
+| 200.714
+| 3.8
+| 2.4
+|-
+| [[Segment NOAL4]]
+| [[Rio de Noal]]
+| 132.34
+| 1493.84
+| 11.3
+| 8.0
+|-
+| [[Segment AMAV01]]
+| 
+| 170.36
+| 5326.88
+| 31.3
+| 20.5
+|-
+| [[Segment NOAL1]]
+| [[Rio de Noal]]
+| 39.62
+| 499.93
+| 12.6
+| 10.2
+|-
+| [[Segment NOAL2]]
+| [[Rio de Noal]]
+| 25.82
+| 389.447
+| 15.1
+| 12.2
+|-
+| [[Segment NOAL3]]
+| [[Rio de Noal]]
+| 45.17
+| 631.141
+| 14.0
+| 10.4
+|-
+| [[Segment TRON]]
+| [[Rio de Ca' Tron]]
+| 172.43
+| 587.047
+| 3.4
+| 2.4
+|-
+| [[Segment AMAL]]
+| [[Rio Amalteo]]
+| 25.7
+| 143.189
+| 5.6
+| 5.2
+|-
+| [[Segment FAVA1]]
+| [[Rio de la Fava]]
+| 10.92
+| 76.6548
+| 7.1
+| 5.4
+|-
+| [[Segment CTIA01]]
+| 
+| 703.15
+| 10086.97
+| 14.3
+| 10.1
+|-
+| [[Segment FAVA2]]
+| [[Rio de la Fava]]
+| 192.52
+| 1711.91
+| 8.9
+| 6.4
+|-
+| [[Segment FRES]]
+| [[Rio de la Frescada]]
+| 267.49
+| 1379.31
+| 5.2
+| 2.4
+|-
+| [[Segment FALB01]]
+| 
+| 360.1
+| 9579.69
+| 26.6
+| 6.9
+|-
+| [[Segment CANO]]
+| [[Rio de la Canonica o de Palazzo]]
+| 281.51
+| 2814.5
+| 10.0
+| 7.6
+|-
+| [[Segment DANI]]
+| [[Rielo de S. Daniel]]
+| 296.68
+| 1691.98
+| 5.7
+| 3.2
+|-
+| [[Segment DEM201]]
+| 
+| 116.31
+| 2594.86
+| 22.3
+| 17.1
+|-
+| [[Segment SSER01]]
+| 
+| 261.49
+| 4377.86
+| 16.7
+| 10.7
+|-
+| [[Segment ACQU1]]
+| [[Rio de l'Acqua Dolce]]
+| 65.32
+| 537.834
+| 8.2
+| 6.6
+|-
+| [[Segment CGRA03]]
+| 
+| 421.4
+| 25119.98
+| 59.6
+| 32.8
+|-
+| [[Segment CGRA04]]
+| 
+| 228.35
+| 30745.38
+| 134.7
+| 108.0
+|-
+| [[Segment RAFF2]]
+| [[Rio de l'Anzolo Rafael]]
+| 113.37
+| 1319.66
+| 11.6
+| 8.0
+|-
+| [[Segment SENS1]]
+| [[Rio de la Sensa]]
+| 301.73
+| 4631.48
+| 15.3
+| 9.2
+|-
+| [[Segment CGRA01]]
+| 
+| 240.95
+| 20070.39
+| 83.3
+| 66.2
+|-
+| [[Segment RAFF1]]
+| [[Rio de l'Anzolo Rafael]]
+| 211.89
+| 1852.13
+| 8.7
+| 6.0
+|-
+| [[Segment SENS2]]
+| [[Rio de la Sensa]]
+| 230.62
+| 3024.18
+| 13.1
+| 7.2
+|-
+| [[Segment CGRA02]]
+| 
+| 248.46
+| 12915.28
+| 52.0
+| 43.2
+|-
+| [[Segment SENS3]]
+| [[Rio de la Sensa]]
+| 67.66
+| 803.684
+| 11.9
+| 9.6
+|-
+| [[Segment COLE01]]
+| 
+| 170.83
+| 2394.67
+| 14.0
+| 12.9
+|-
+| [[Segment SENS4]]
+| [[Rio de la Sensa]]
+| 82.67
+| 844.342
+| 10.2
+| 9.2
+|-
+| [[Segment ACQU3]]
+| [[Rio de l'Acqua Dolce]]
+| 53.45
+| 602.438
+| 11.3
+| 9.2
+|-
+| [[Segment SENS5]]
+| [[Rio de la Sensa]]
+| 165.56
+| 1681.32
+| 10.2
+| 6.4
+|-
+| [[Segment FUSE]]
+| [[Rio dei Fuseri]]
+| 124.75
+| 871.4
+| 7.0
+| 5.0
+|-
+| [[Segment ACQU2]]
+| [[Rio de l'Acqua Dolce]]
+| 41.04
+| 448.021
+| 10.9
+| 10.6
+|-
+| [[Segment SENS6]]
+| [[Rio de la Sensa]]
+| 176.24
+| 2364.71
+| 13.4
+| 10.6
+|-
+| [[Segment ZECA]]
+| [[Rio de la Luna o dei Giardinetti]]
+| 69.52
+| 557.564
+| 8.0
+| 5.1
+|-
+| [[Segment ZECC]]
+| [[Rio dei Zecchini]]
+| 155.14
+| 1926.4
+| 12.4
+| 11.0
+|-
+| [[Segment SACF3]]
+| [[Canal de Sacca Fisola]]
+| 174.14
+| 2674.95
+| 15.4
+| 9.4
+|-
+| [[Segment SACF2]]
+| [[Canal de Sacca Fisola]]
+| 103.04
+| 1658.74
+| 16.1
+| 11.6
+|-
+| [[Segment SACF1]]
+| [[Canal de Sacca Fisola]]
+| 48.85
+| 860.401
+| 17.6
+| 11.8
+|-
+| [[Segment CSER01]]
+| 
+| 395.79
+| 22044.74
+| 55.7
+| 20.5
+|-
+| [[Segment DIO]]
+| [[Rio de la Ca' di Dio]]
+| 191.33
+| 1719.14
+| 9.0
+| 6.0
+|-
+| [[Segment TANA3]]
+| [[Rio de la Tana]]
+| 20.71
+| 336.494
+| 16.2
+| 14.6
+|-
+| [[Segment TANA2]]
+| [[Rio de la Tana]]
+| 453.29
+| 4964.82
+| 11.0
+| 5.8
+|-
+| [[Segment MADO2]]
+| [[Rio della Madonnetta]]
+| 62.59
+| 435.975
+| 7.0
+| 5.2
+|-
+| [[Segment TANA1]]
+| [[Rio de la Tana]]
+| 55.84
+| 564.74
+| 10.1
+| 8.8
+|-
+| [[Segment MADO1]]
+| [[Rio della Madonnetta]]
+| 61.35
+| 259.373
+| 4.2
+| 3.6
+|-
+| [[Segment MADO3]]
+| [[Rio della Madonnetta]]
+| 151.51
+| 719.114
+| 4.7
+| 2.0
+|-
+| [[Segment STIN]]
+| [[Rio de S. Stin]]
+| 111.93
+| 933.149
+| 8.4
+| 8.0
+|-
+| [[Segment GALE1]]
+| [[Canal de le Galeazze]]
+| 
+| 19510.6
+| 55.0
+| 7.6
+|-
+| [[Segment GALE2]]
+| [[Canal de le Galeazze]]
+| 
+| 3372.77
+| 39.5
+| 80.0
+|-
+| [[Segment PRIU1]]
+| [[Rio Priuli]]
+| 49.22
+| 379.068
+| 7.7
+| 6.0
+|-
+| [[Segment PRIU3]]
+| [[Rio Priuli]]
+| 47.83
+| 547.309
+| 11.4
+| 9.8
+|-
+| [[Segment PRIU2]]
+| [[Rio Priuli]]
+| 83.69
+| 745.486
+| 8.9
+| 5.8
+|-
+| [[Segment GIUD12]]
+| 
+| 465.6
+| 125625.95
+| 269.82
+| 
+|-
+| [[Segment BIAG1]]
+| [[Rio de San Biagio]]
+| 165.25
+| 1697.65
+| 10.3
+| 8.0
+|-
+| [[Segment BIAG2]]
+| [[Rio de San Biagio]]
+| 188.07
+| 2699.43
+| 14.3
+| 9.0
+|-
+| [[Segment GIUD10]]
+| 
+| 310.5
+| 100129.38
+| 322.48
+| 
+|-
+| [[Segment CATE3]]
+| [[Rio de S. Caterina]]
+| 151.69
+| 1656.85
+| 10.9
+| 8.2
+|-
+| [[Segment GIUD11]]
+| 
+| 277.8
+| 103698.44
+| 373.28
+| 
+|-
+| [[Segment CARM]]
+| [[Rio dei Carmini]]
+| 124.53
+| 1521.33
+| 12.2
+| 11.0
+|-
+| [[Segment CATE1]]
+| [[Rio de S. Caterina]]
+| 52.61
+| 446.926
+| 8.5
+| 7.0
+|-
+| [[Segment CATE2]]
+| [[Rio de S. Caterina]]
+| 93.34
+| 985.9
+| 10.6
+| 8.4
+|-
+| [[Segment CROC]]
+| [[Rio de la Croce]]
+| 254.98
+| 2458.29
+| 9.6
+| 5.2
+|-
+| [[Segment TRTE]]
+| [[Rio de le Torete]]
+| 87.41
+| 439.883
+| 5.0
+| 3.8
+|-
+| [[Segment ERBE]]
+| [[Rielo de le Erbe]]
+| 91.5
+| 402.163
+| 4.4
+| 3.6
+|-
+| [[Segment DNUO]]
+| [[Darsena Nova e Novissima]]
+| 
+| 97425.56
+| 
+| 22.1
+|-
+| [[Segment MUNE]]
+| [[Rio de le Muneghete]]
+| 349.59
+| 2051.75
+| 5.9
+| 3.0
+|-
+| [[Segment VIGN]]
+| [[Rio de S. Francesco de la Vigna]]
+| 285.98
+| 2421.19
+| 8.5
+| 5.8
+|-
+| [[Segment GIUD03]]
+| 
+| 154.4
+| 38486.45
+| 249.26
+| 
+|-
+| [[Segment GIUD04]]
+| 
+| 78.6
+| 21929.8
+| 279.01
+| 
+|-
+| [[Segment GIUD05]]
+| 
+| 247.2
+| 71166.51
+| 287.89
+| 
+|-
+| [[Segment GIUD06]]
+| 
+| 96.1
+| 30306.59
+| 315.37
+| 
+|-
+| [[Segment GIUD01]]
+| 
+| 317.68
+| 85362.75
+| 272.72
+| 5.8
+|-
+| [[Segment GIUD02]]
+| 
+| 210.8
+| 54376.56
+| 257.95
+| 
+|-
+| [[Segment SCUD1]]
+| [[Rio dei Scudi e de la S. Ternita]]
+| 296.85
+| 1842.79
+| 6.2
+| 4.0
+|-
+| [[Segment SCUD2]]
+| [[Rio dei Scudi e de la S. Ternita]]
+| 58.45
+| 424.59
+| 7.3
+| 6.0
+|-
+| [[Segment GIUD07]]
+| 
+| 189.1
+| 59082.01
+| 312.44
+| 
+|-
+| [[Segment ASSA01]]
+| 
+| 79.64
+| 621.569
+| 7.5
+| 6.9
+|-
+| [[Segment GIUD08]]
+| 
+| 78.0
+| 24513.99
+| 314.28
+| 
+|-
+| [[Segment GIUD09]]
+| 
+| 74.9
+| 23569.7
+| 314.68
+| 
+|-
+| [[Segment TERR01]]
+| 
+| 446.35
+| 3809.04
+| 8.5
+| 6.3
+|-
+| [[Segment DGIO1]]
+| [[Darsena San Giorgio]]
+| 
+| 10911.78
+| 
+| 15.0
+|-
+| [[Segment ASSA02]]
+| 
+| 215.25
+| 1365.79
+| 6.5
+| 4.8
+|-
+| [[Segment LAVR]]
+| [[Rio dei Lavraneri]]
+| 324.48
+| 21310.63
+| 65.7
+| 41.2
+|-
+| [[Segment MAGA]]
+| [[Rio del Magazen]]
+| 63.91
+| 504.431
+| 7.9
+| 6.2
+|-
+| [[Segment LEPA02]]
+| 
+| 208.62
+| 1743.29
+| 8.4
+| 7.6
+|-
+| [[Segment LEPA03]]
+| 
+| 513.33
+| 5281.18
+| 10.3
+| 7.1
+|-
+| [[Segment LEPA01]]
+| 
+| 452.15
+| 4269.68
+| 9.4
+| 6.5
+|-
+| [[Segment MIRA]]
+| [[Rio dei Miracoli]]
+| 118.3
+| 608.71
+| 5.1
+| 3.0
+|-
+| [[Segment BARN1]]
+| [[Rio de S. Barnaba]]
+| 201.13
+| 1397.31
+| 6.9
+| 3.8
+|-
+| [[Segment BARN2]]
+| [[Rio de S. Barnaba]]
+| 132.18
+| 1014.08
+| 7.7
+| 5.6
+|-
+| [[Segment FRAR2]]
+| [[Rio dei Frari]]
+| 34.27
+| 249.413
+| 7.3
+| 6.7
+|-
+| [[Segment TORE]]
+| [[Rio de le Toresele]]
+| 382.48
+| 2121.41
+| 5.5
+| 3.2
+|-
+| [[Segment CIMI01]]
+| 
+| 95.3
+| 699.68
+| 7.3
+| 4.6
+|-
+| [[Segment FRAR1]]
+| [[Rio dei Frari]]
+| 87.56
+| 746.723
+| 8.5
+| 5.2
+|-
+| [[Segment PEST2]]
+| [[Rio del Pestrin]]
+| 120.64
+| 900.773
+| 7.5
+| 5.6
+|-
+| [[Segment PIET]]
+| [[Rio de la Pietà]]
+| 204.71
+| 2000.5
+| 9.8
+| 5.8
+|-
+| [[Segment MOIS]]
+| [[Rio de S. Moisè]]
+| 202.29
+| 1759.35
+| 8.7
+| 5.2
+|-
+| [[Segment PEST1]]
+| [[Rio del Pestrin]]
+| 79.73
+| 763.072
+| 9.6
+| 7.0
+|-
+| [[Segment CINI]]
+| [[Canal Cini]]
+| 196.13
+| 7845.26
+| 40.0
+| 37.0
+|-
+| [[Segment SACM]]
+| [[Rio de la Sacca de la Misericordia]]
+| 157.77
+| 1781.13
+| 11.3
+| 10.4
+|-
+| [[Segment CDIE01]]
+| 
+| 70.55
+| 937.077
+| 12.7
+| 10.8
+|-
+| [[Segment MISE6]]
+| [[Rio de la Misericordia]]
+| 201.79
+| 1743.2
+| 8.6
+| 6.0
+|-
+| [[Segment MISE5]]
+| [[Rio de la Misericordia]]
+| 168.63
+| 1551.11
+| 9.2
+| 4.6
+|-
+| [[Segment SACB1]]
+| [[Canal de Sacca San Biagio]]
+| 132.24
+| 11671.61
+| 88.3
+| 75.8
+|-
+| [[Segment MISE4]]
+| [[Rio de la Misericordia]]
+| 22.9
+| 254.444
+| 11.1
+| 10.2
+|-
+| [[Segment SACB2]]
+| [[Canal de Sacca San Biagio]]
+| 183.21
+| 16294.5
+| 88.9
+| 32.4
+|-
+| [[Segment MISE3]]
+| [[Rio de la Misericordia]]
+| 73.95
+| 784.3
+| 10.6
+| 9.0
+|-
+| [[Segment CORN]]
+| [[Rio de Ca' Corner]]
+| 166.42
+| 766.057
+| 4.6
+| 3.2
+|-
+| [[Segment MISE2]]
+| [[Rio de la Misericordia]]
+| 105.6
+| 1578.05
+| 14.9
+| 11.2
+|-
+| [[Segment MISE1]]
+| [[Rio de la Misericordia]]
+| 92.85
+| 1796.96
+| 19.4
+| 17.2
+|-
+| [[Segment BEAT02]]
+| 
+| 326.44
+| 3913.28
+| 12.0
+| 8.6
+|-
+| [[Segment BEAT01]]
+| 
+| 88.32
+| 960.841
+| 10.9
+| 8.2
+|-
+| [[Segment GAFF]]
+| [[Rio del Gaffaro e del Malcanton]]
+| 269.03
+| 2659.99
+| 9.9
+| 4.6
+|-
+| [[Segment VETR01]]
+| 
+| 541.93
+| 6057.0
+| 11.2
+| 7.2
+|-
+| [[Segment FNUO1]]
+| 
+| 612.8
+| 101474.08
+| 165.59
+| 
+|-
+| [[Segment CELE]]
+| [[Rielo drio la Celestia o de l'Arsenal]]
+| 120.54
+| 1508.48
+| 12.5
+| 9.7
+|-
+| [[Segment PROC]]
+| [[Rio de le Procuratie]]
+| 105.21
+| 578.383
+| 5.5
+| 4.0
+|-
+| [[Segment MELO]]
+| [[Rio dei Meloni]]
+| 157.63
+| 684.245
+| 4.3
+| 3.0
+|-
+| [[Segment TOLE]]
+| [[Rio dei Tolentini e de la Crose]]
+| 262.43
+| 2317.09
+| 8.8
+| 6.0
+|-
+| [[Segment FNUO3]]
+| 
+| 45.1
+| 4810.9
+| 106.67
+| 
+|-
+| [[Segment TENT2]]
+| [[Rio del Tentor]]
+| 249.8
+| 3108.93
+| 12.4
+| 10.4
+|-
+| [[Segment FNUO2]]
+| 
+| 552.6
+| 59820.97
+| 108.25
+| 
+|-
+| [[Segment TENT1]]
+| [[Rio del Tentor]]
+| 49.3
+| 547.733
+| 11.1
+| 9.0
+|-
+| [[Segment FNUO5]]
+| 
+| 33.9
+| 2170.01
+| 64.01
+| 
+|-
+| [[Segment APOS3]]
+| [[Rio dei Ss. Apostoli]]
+| 133.63
+| 1114.02
+| 8.3
+| 3.2
+|-
+| [[Segment FNUO4]]
+| 
+| 269.5
+| 23796.47
+| 88.3
+| 
+|-
+| [[Segment APOS4]]
+| [[Rio dei Ss. Apostoli]]
+| 162.54
+| 1288.7
+| 7.9
+| 4.4
+|-
+| [[Segment FNUO7]]
+| 
+| 66.9
+| 3470.0
+| 51.87
+| 
+|-
+| [[Segment FNUO6]]
+| 
+| 192.7
+| 10331.23
+| 53.61
+| 
+|-
+| [[Segment FNUO9]]
+| 
+| 300.7
+| 13828.23
+| 45.99
+| 
+|-
+| [[Segment FNUO8]]
+| 
+| 385.1
+| 22859.06
+| 59.36
+| 
+|-
+| [[Segment NICL04]]
+| 
+| 
+| 358256.01
+| 
+| 
+|-
+| [[Segment ALVI]]
+| [[Rio de S. Alvise]]
+| 468.72
+| 7142.44
+| 15.2
+| 9.4
+|-
+| [[Segment BOTE]]
+| [[Rio de le Bote]]
+| 60.7
+| 502.957
+| 8.3
+| 5.5
+|-
+| [[Segment APOS2]]
+| [[Rio dei Ss. Apostoli]]
+| 50.24
+| 448.932
+| 8.9
+| 8.0
+|-
+| [[Segment APOS1]]
+| [[Rio dei Ss. Apostoli]]
+| 50.57
+| 460.184
+| 9.1
+| 8.0
+|-
+| [[Segment LUCA2]]
+| [[Rio de S. Luca]]
+| 17.91
+| 146.514
+| 8.2
+| 7.4
+|-
+| [[Segment LUCA1]]
+| [[Rio de S. Luca]]
+| 152.92
+| 1259.44
+| 8.2
+| 5.6
+|-
+| [[Segment TOMA]]
+| [[Rio de S. Tomà]]
+| 165.25
+| 844.485
+| 5.1
+| 2.6
+|-
+| [[Segment LUCA3]]
+| [[Rio de S. Luca]]
+| 25.8
+| 214.486
+| 8.3
+| 6.8
+|-
+| [[Segment FELI2]]
+| [[Rio de S. Felice]]
+| 163.26
+| 985.174
+| 6.0
+| 4.0
+|-
+| [[Segment FELI1]]
+| [[Rio de S. Felice]]
+| 97.7
+| 847.321
+| 8.7
+| 5.4
+|-
+| [[Segment PROV1]]
+| [[Rio de S. Provolo o de l'Osmarin]]
+| 72.14
+| 374.989
+| 5.2
+| 4.0
+|-
+| [[Segment GUER]]
+| [[Rio de la Guerra]]
+| 81.64
+| 313.34
+| 3.8
+| 2.6
+|-
+| [[Segment PROV2]]
+| [[Rio de S. Provolo o de l'Osmarin]]
+| 35.4
+| 144.248
+| 4.1
+| 2.0
+|-
+| [[Segment GREC]]
+| [[Rio dei Greci]]
+| 207.11
+| 2687.64
+| 13.0
+| 9.8
+|-
+| [[Segment CANT01]]
+| 
+| 66.25
+| 859.489
+| 12.4
+| 10.4
+|-
+| [[Segment MEND]]
+| [[Rio dei Mendicanti o de S. Zanipolo]]
+| 402.15
+| 5719.63
+| 14.2
+| 5.4
+|-
+| [[Segment LORE2]]
+| [[Rio de S. Lorenzo]]
+| 184.36
+| 2430.36
+| 13.2
+| 8.8
+|-
+| [[Segment LORE1]]
+| [[Rio de S. Lorenzo]]
+| 45.78
+| 450.401
+| 9.8
+| 8.6
+|-
+| [[Segment GIAR1]]
+| [[Rio dei Giardini]]
+| 95.47
+| 3280.69
+| 34.4
+| 15.8
+|-
+| [[Segment GIAR2]]
+| [[Rio dei Giardini]]
+| 68.66
+| 2020.06
+| 29.4
+| 24.4
+|-
+| [[Segment MALP4]]
+| [[Rio del Malpaga]]
+| 150.01
+| 1148.48
+| 7.7
+| 5.8
+|-
+| [[Segment MALP2]]
+| [[Rio del Malpaga]]
+| 50.43
+| 415.706
+| 8.3
+| 6.4
+|-
+| [[Segment MALP3]]
+| [[Rio del Malpaga]]
+| 52.53
+| 338.72
+| 6.5
+| 4.8
+|-
+| [[Segment CONV]]
+| [[Rio de le Convertite]]
+| 258.9
+| 3388.46
+| 13.1
+| 10.6
+|-
+| [[Segment MALP1]]
+| [[Rio del Malpaga]]
+| 153.45
+| 1025.71
+| 6.7
+| 5.0
+|-
+| [[Segment ANA1]]
+| [[Rio de S. Ana]]
+| 74.33
+| 854.584
+| 11.5
+| 9.8
+|-
+| [[Segment ANA3]]
+| [[Rio de S. Ana]]
+| 23.66
+| 207.095
+| 8.7
+| 8.0
+|-
+| [[Segment ANA2]]
+| [[Rio de S. Ana]]
+| 101.44
+| 824.193
+| 8.1
+| 6.0
+|}

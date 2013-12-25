@@ -1,0 +1,431 @@
+Codice_Ponte,Numero_Zucchetta,Nome_Ponte,Segmento,Nome_Rio,Isola_Nord,Isola_Sud,Sestiere_Nord,Sestiere_Sud
+CHIA_P2,0,Ponte Privato della Caserma Santa Chiara,CHIA01,Canal de S. Chiara,0,0,SC,SC
+TERE_P1,0,Ponte dei Morti-Privato v‡ in,NICO01,Rio de S. Nicol√≤ dei Mendicoli,0,0,DD,DD
+ANATOM,0,Ponte de l'Anatomia,DEGO,Rio de S. Zan Degol‡,0,0,SC,SC
+AGOSTIN,0,Ponte S.Agostin,AGOS,Rio de S. Agostin,0,0,SP,SP
+TERESE,0,Ponte de le Terese,ARZE,Rio de le Terese,0,0,DD,DD
+RAFAEL,0,Ponte de l'Anzolo Rafael,RAFF,Rio de l'Anzolo Rafael,0,0,DD,DD
+MARITF,0,Ponte del Racc. Ferr. della Maritti,CHIA,Rio de l'Arzere e de S. Marta,0,0,SC,SC
+CHIA_P1,0,Ponte Privato-Passerella Marittima,CHIA01,Canal de S. Chiara,0,0,SC,SC
+LIBERT,0,Ponte della Libert‡-Rampa P.Roma,CHIA01,Canal de S. Chiara,0,0,SC,SC
+AUTOMO,0,Ponte Automobilistico del Tronchetto,,,0,0,SC,SC
+ACCADE,3,Ponte dell'Accademia,GRAN34,Canal Grande,83,52,SM,DD
+RIALTO,4,Ponte di Rialto,GRAN19,Canal Grande,29,77,SP,SM
+SCALZI,5,Ponte degli Scalzi,GRAN4,Canal Grande,20,33,CN,SC
+TRAVER,6,Ponte delle Traversine,GRAN1,Canal Grande,71,77,CN,SC
+OLIO,10,Ponte de l'Olio,TEDE1,Rio del Fontego dei Tedeschi,71,77,CN,SM
+PIGNOL,11,Ponte dei Pignoli,BARE,Rio dei Bareteri,77,92,SM,SM
+BARETE,12,Ponte dei Bareteri,BARE,Rio dei Bareteri,77,92,SM,SM
+BARE_P1,13,"Ponte Privato, v‡ al civico 49",BARE,Rio dei Bareteri,77,92,SM,SM
+PIGNAT,14,Ponte de le Pignate,SCOA1,Rio dei Scoacamini,80,91,SM,SM
+MANIN,15,Ponte Manin,SALV,Rio de S. Salvador,77,80,SM,SM
+LOVO,16,Ponte del Lovo,SALV,Rio de S. Salvador,77,80,SM,SM
+BALOTE,17,Ponte de le Balote,SALV,Rio de S. Salvador,77,80,SM,SM
+FUSERI,18,Ponte dei Fuseri,FUSE,Rio dei Fuseri,80,92,SM,SM
+COLONNE,19,Ponte de le Colonne,FUSE,Rio dei Fuseri,80,92,SM,SM
+GOLDO,20,Ponte Carlo Goldoni,FUSE,Rio dei Fuseri,80,92,SM,SM
+FERAI,21,Ponte dei Ferai,FERA,Rio dei Ferali,92,91,SM,SM
+CAVALET,23,Ponte del Cavaletto,PROC2,Rio de le Procuratie,91,92,SM,SM
+PROC2_P1,24,Ponte Privato - Passerella Aerea,PROC2,Rio de le Procuratie,91,92,SM,SM
+DAI,25,Ponte dei Dai,PROC2,Rio de le Procuratie,91,92,SM,SM
+TRON,26,Ponte Tron o de la Piavola,ORSE,Rio e Bacino Orseolo,91,92,SM,SM
+PITTOR,27,Ponte de l'Accadamia dei Pittori,BACI2,Rio de la Luna o dei Giardinetti,90,92,SM,SM
+REALE,28,Ponte Privato Apribile del Palazzo,GIAR,Rio de la Luna o dei Giardinetti,92,90,SM,SM
+ZECA_P1,29,Edificio Privato (Compagnia della V,ZECA,Rio de la Luna o dei Giardinetti,92,90,SM,SM
+ZECA,30,Ponte piano della Zecca,ZECA,Rio de la Luna o dei Giardinetti,92,90,SM,SM
+MOISE,31,Ponte S. MoisË,MOIS,Rio de S. MoisË,92,89,SM,SM
+PISCIN,32,Ponte de Piscina,BARC2,Rio dei Barcaroli,92,88,SM,SM
+BARCAR,33,Ponte dei Barcaroli,BARC2,Rio dei Barcaroli,92,88,SM,SM
+CORTES,34,Ponte de la Cortesia,LUCA,Rio de S. Luca,80,81,SM,SM
+PATERN,35,Ponte S. Paternian,LUCA,Rio de S. Luca,80,81,SM,SM
+TEATRO,36,Ponte del Teatro,LUCA,Rio de S. Luca,80,81,SM,SM
+VESTE,37,Ponte de la Veste,VEST3,Rio de la Veste,88,89,SM,SM
+ALBO_P1,38,"Ponte Privato, v‡ al civico 24",ALBO,Rio de l'Alboro o de le Ostreghe,89,87,SM,SM
+OSTREG,39,Ponte de le Ostreghe,ALBO,Rio de l'Alboro o de le Ostreghe,89,87,SM,SM
+FENICE,40,Ponte de la Fenice,VEST2,Rio de la Veste,88,87,SM,SM
+BARBAR,41,Ponte Duodo o Barbarigo,ZOBE,Rio de S.M. Zobenigo,86,87,SM,SM
+FELTRINA,42,Ponte de la Feltrina,ZOBE,Rio de S.M. Zobenigo,86,87,SM,SM
+STORT2,43,Ponte Storto,ZOBE,Rio de S.M. Zobenigo,86,87,SM,SM
+CALEGH,44,Ponte Storto (dei Calegheri),VERO2,Rio Menuo o de la Verona,81,86,SM,SM
+CRISTOF,45,Ponte S. Cristoforo,VERO1,Rio Menuo o de la Verona,88,86,SM,SM
+MALVAV,46,Ponte de la Malvasia Vechia,VERO1,Rio Menuo o de la Verona,81,88,SM,SM
+VERONA,47,Ponte de la Verona,VERO1,Rio Menuo o de la Verona,81,88,SM,SM
+ZAGURI,48,Ponte Zaguri,MAUR,Rio de S. Maurizio e rio Malatin,85,86,SM,SM
+MALVAV2,49,Ponte de la Malvasia Vechia,MAUR,Rio de S. Maurizio e rio Malatin,86,85,SM,SM
+MAURIZ,50,Ponte S. Maurizio,SANT,Rio del Santissimo,83,85,SM,SM
+SANT_P2,51,Ponte Privato (Chiesa di S. Stefano,SANT,Rio del Santissimo,83,85,SM,SM
+SANT_P1,53,Ponte Privato (chiostro di S.Stefan,SANT,Rio de S. Anzolo,83,85,SM,SM
+FRATI,54,Ponte dei Frati,ANZO1,Rio de S. Anzolo,81,83,SM,SM
+ANZO1_P1,55,Ponte Privato v‡ al civico 3823,ANZO1,Rio de S. Anzolo,81,83,SM,SM
+PESTRI,56,Ponte del Pestrin,GARZ,Rio de Ca' Garzoni,82,83,SM,SM
+SAMUEL,57,Ponte de la Piscina S. Samuele,GARZ,Rio de Ca' Garzoni,82,83,SM,SM
+ALBERO,58,Ponte de l'Albero,CORN,Rio de Ca' Corner,81,82,SM,SM
+MICHIEL,59,Ponte Michiel,MICH,Rio de Ca' Michiel,81,81,SM,SM
+SCUOE2,60,Ponte delle Scuole,DUCA,Rio del Duca e de S. Vidal,83,84,SM,SM
+DUCA_P4,61,Ponte Privato v‡ al civico 2888,DUCA,Rio del Duca e de S. Vidal,84,83,SM,SM
+GIUSTI,62,Ponte Giustiniani,DUCA,Rio del Duca e de S. Vidal,84,83,SM,SM
+DUCA_P3,63,Ponte Privato v‡ al civico 2885,DUCA,Rio del Duca e de S. Vidal,84,83,SM,SM
+DUCA_P2,64,Ponte Privato v‡ al civico 2869/A,DUCA,Rio del Duca e de S. Vidal,84,83,SM,SM
+VITTOR,65,Ponte Vitturi,DUCA,Rio del Duca e de S. Vidal,84,83,SM,SM
+DUCA_P1,66,Ponte Privato dell'Istituto Veneto,DUCA,Rio del Duca e de S. Vidal,84,83,SM,SM
+PAGLIA,67,Ponte della Paglia,CANO,Rio de la Canonica o de Palazzo,93,92,CS,SM
+SOSPIR,68,Ponte dei Sospiri (Aereo),CANO,Rio de la Canonica o de Palazzo,93,92,CS,SM
+CANONI,69,Ponte de la Canonica,CANO,Rio de la Canonica o de Palazzo,92,93,SM,CS
+CANO_P2,70,Ponte Privato v‡ ai civico 4342,CANO,Rio de la Canonica o de Palazzo,93,92,CS,SM
+CANO_P1,71,Ponte Privato v‡ ai civico 4328,CANO,Rio de la Canonica o de Palazzo,93,92,CS,SM
+REMEDI,72,Ponte del Remedio,CANO,Rio de la Canonica o de Palazzo,93,92,CS,SM
+ANZOLO,73,Ponte de l'Anzolo,ZULI,Rio de S. Zulian,78,92,CS,SM
+GUERRA,74,Ponte de la Guerra,ZULI,Rio de S. Zulian,78,92,CS,SM
+BALBI,75,Ponte de Ca' Balbi,ZULI,Rio de S. Zulian,78,92,CS,SM
+MALVA2,76,Ponte de la Malvasia,ZULI,Rio de S. Zulian,78,92,CS,SM
+FAVA,77,Ponte de la Fava,FAVA,Rio de la Fava,77,78,SM,CS
+ANTON2,78,Ponte S. Antonio,FAVA,Rio de la Fava,77,78,SM,CS
+MPOLO,79,Ponte del Teatro o Marco Polo,LIO,Rio de S. Lio,71,72,CN,CS
+CRISTO,80,Ponte del Cristo,MARI1,Rio de la Panada,70,72,CN,CS
+ROSSO2,81,Ponte Rosso,MEND,Rio dei Mendicanti o de S. Zanipolo,65,66,CN,CS
+CAVALLO,82,Ponte Cavallo,MEND,Rio dei Mendicanti o de S. Zanipolo,65,66,CN,CS
+CAVOSP2,83,Ponte della cavana dell'Ospedale,MEND,,66,66,CS,CS
+MENDIC,84,Ponte dei Mendicanti,FNUO6,Rio dei Mendicanti o de S. Zanipolo,65,66,CN,CS
+VIN,85,Ponte del Vin,VIN,Rio del Vin,94,93,CS,CS
+PROVOL,87,Ponte S. Provolo,VIN,Rio del Vin,93,94,CS,CS
+CARMINI,88,Ponte dei Carmini,PROV2,Rio de S. Provolo o de l'Osmarin,79,94,CS,CS
+DIAVOL,89,Ponte del Diavolo,PROV1,Rio de S. Provolo o de l'Osmarin,76,94,CS,CS
+OSMARI,90,Ponte de l'Osmarin,LORE2,Rio de S. Lorenzo,76,94,CS,CS
+CORONA,91,Ponte de la Corona,ZANI,Rio de S. Zaninovo e del Remedio,79,93,CS,CS
+STORT6,92,Ponte Storto,ZANI,Rio de S. Zaninovo e del Remedio,72,93,CS,CS
+ZANI_P3,93,Ponte Privato v‡ al civico 4429,ZANI,Rio de S. Zaninovo e del Remedio,79,93,CS,CS
+ZANI_P2,94,Ponte Privato v‡ al civico 4428,ZANI,Rio de S. Zaninovo e del Remedio,79,93,CS,CS
+ZANI_P1,95,Ponte Privato v‡ al civico 4428,ZANI,Rio de S. Zaninovo e del Remedio,79,93,CS,CS
+PASQUA,96,Ponte Pasqualigo,ZANI,Rio de S.M. Formosa,79,93,CS,CS
+AVOGAD,97,Ponte Avogadro,MOND2,Rio de S.M. Formosa,74,79,CS,CS
+QUERIN,98,Ponte Querini,FORM,Rio de S.M. Formosa,74,79,CS,CS
+FORM_P4,99,Ponte Privato Fond. Sc. Querini Stampalia,FORM,Rio de S.M. Formosa,74,79,CS,CS
+FORM_P3,100,Ponte Privato va al civico 5252,FORM,Rio de S.M. Formosa,74,79,CS,CS
+FORM_P2,101,Ponte Privato va al civico 5251,FORM,Rio de S.M. Formosa,74,79,CS,CS
+FORM_P1,102,Ponte Privato va al civico 5250,FORM,Rio de S.M. Formosa,74,79,CS,CS
+GIUFFA,103,Ponte de Ruga Giuffa,FORM,Rio de S.M. Formosa,74,79,CS,CS
+MOND2_P1,104,Ponte Privato v‡ al civico 4425,MOND2,Rio del Mondo Novo,74,78,CS,CS
+BANDE,105,Ponte de le Bande o de S. Barb,MOND2,Rio del Mondo Novo,74,78,CS,CS
+MONDON,106,Ponte del Mondo Novo,MOND2,Rio del Mondo Novo,74,78,CS,CS
+PARAD2,107,Ponte del Paradiso,MOND2,Rio del Mondo Novo,73,78,CS,CS
+MARCEL,108,Ponte Marcello,PIOM1,Rio del Piombo,72,73,CS,CS
+PIOM2_P3,109,Ponte Privato v‡ al civico 5964,PIOM2,Rio del Piombo,72,78,CS,CS
+PIOM2_P2,110,Ponte Privato v‡ al civico 5681,PIOM2,Rio del Piombo,72,78,CS,CS
+PIOM2_P1,111,Ponte Privato v‡ al civico 5671,PIOM2,Rio del Piombo,72,78,CS,CS
+PISTOR,112,Ponte del Pistor,PIOM2,Rio del Piombo,72,78,CS,CS
+PRETI,113,Ponte Preti,MOND2,Rio del Pestrin,73,74,CS,CS
+BORGOL,114,Ponte Borgoloco,PEST,Rio del Pestrin,73,74,CS,CS
+MINICH,115,Ponte Minich,MARI5,Rio del Pestrin,66,74,CS,CS
+CFELZI,116,Ponte dei Consafelzi,TETT1,Rio del Pestrin,66,74,CS,CS
+OSPEDA,117,Ponte de l'Ospedaletto,LATE1,Rio de S. Giovanni Laterano,66,75,CS,CS
+LATE1_P1,118,Ponte Privato v‡ al civico 6396,LATE1,Rio de S. Giovanni Laterano,66,75,CS,CS
+MUAZZO,119,Ponte Muazzo,LATE1,Rio de S. Giovanni Laterano,66,75,CS,CS
+TETTA,120,Ponte Tetta,TETT1,Rio de la Tetta,75,74,CS,CS
+CAPPEL,121,Ponte Cappello,TETT2,Rio de la Tetta,75,76,CS,CS
+SEVERO,122,Ponte S. Severo,SEVE2,Rio de S. Severo,76,79,CS,CS
+NOVOSEV,123,Ponte Novo de San Severo,SEVE2,Rio de S. Severo,76,79,CS,CS
+CAVAGN,124,Ponte Cavagnis,SEVE1,Rio de S. Severo,74,76,CS,CS
+PIETA,125,Ponte de la Piet‡,GREC,Rio dei Greci,94,95,CS,CS
+GRECI,126,Ponte dei Greci,LORE2,Rio de S. Lorenzo,95,76,CS,CS
+LION,127,Ponte Lion,LORE2,Rio de S. Lorenzo,95,76,CS,CS
+LORENZ,128,Ponte S. Lorenzo,LORE2,Rio de S. Lorenzo,95,76,CS,CS
+SEPOLC,129,Ponte del S. Sepolcro,PIET,Rio de la Piet‡,95,96,CS,CS
+DPIETA,130,Ponte drio La Piet‡,PIET,Rio de la Piet‡,95,96,CS,CS
+ANTONIN,131,Ponte S. Antonin,,,95,96,CS,CS
+COMENDA,132,Ponte de la Comenda,,,95,96,CS,CS
+CTENOVA,133,Ponte de la Corte Nova,,,95,96,CS,CS
+GIUS_P1,134,Ponte Privato v‡ al civico 2856,GIUS,Rio de S. Giustina,66,67,CS,CS
+GIUSTINA,135,Ponte S. Giustina,GIUS,Rio de S. Giustina,66,67,CS,CS
+CAVOSP,137,Ponte su Cavana dell'Ospedale (N),FNUO6,,66,66,CS,CS
+VIGN_P1,138,Ponte Privato va al civico 2838,VIGN1,Rio de S. Francesco de la Vigna,67,96,CS,CS
+FONTEG,139,Ponte del Fontego,VIGN1,Rio de S. Francesco de la Vigna,67,96,CS,CS
+FRANCE,140,Ponte de S. Francesco o del Nu,VIGN1,Rio de S. Francesco de la Vigna,67,96,CS,CS
+VIGN1_P2,141,Ponte Privato v‡ al civico 3959,VIGN1,Rio de S. Francesco de la Vigna,67,96,CS,CS
+SUFFRA,142,Ponte del Suffragio o del Cristo,VIGN1,Rio de S. Francesco de la Vigna,67,96,CS,CS
+CADIO,143,Ponte de la Ca' de Dio,DIO,Rio de la Ca' di Dio,96,98,CS,CS
+ERIZZO,144,Ponte Erizzo,DIO,Rio de la Ca' di Dio,98,96,CS,CS
+STORT5,145,Ponte Storto,DIO,Rio de la Ca' di Dio,96,98,CS,CS
+GRANA,146,Ponte de la Grana,MRTI1,Rio dei Scudi e de la S. Ternita,97,96,CS,CS
+ARCO,147,Ponte de l'Arco,MRTI1,Rio dei Scudi e de la S. Ternita,97,96,CS,CS
+SCUDI,148,Ponte dei Scudi,SCUD,Rio dei Scudi e de la S. Ternita,96,97,CS,CS
+SCOAZ2,149,Ponte de la Scoazzera,SCUD,Rio dei Scudi e de la S. Ternita,96,97,CS,CS
+ARSENAL,150,Ponte de l'Arsenal,ARSE2,Rio de l'Arsenal,98,99,CS,CS
+PARADI,151,Ponte de l'Arsenal de Paradiso,ARSE2,Rio de l'Arsenal,98,99,CS,CS
+GALE2_P1,151,Ponte Interno privato dell'Arsenale,GALE2,Canal de le Galeazze,67,99,CS,CS
+GALE1_P1,151,Ponte Privato dell'Arsenale,GALE1,Canal de le Galeazze,67,68,CS,CS
+ARZANA,152,Ponte Ingresso Monumentale Arsenale,ARSE1,Rio de San Martin,67,98,CS,CS
+ARSE1_P1,153,Ponte dell'Arsenal detto del Purgatorio,ARSE1,Rio de San Martin,67,98,CS,CS
+ARSE1_P2,154,Ponte dell'Arsenal detto de l'Inferno,ARSE1,Rio de San Martin,67,98,CS,CS
+PENINI,155,Ponte dei Penini,ARSE1,Rio de San Martin,97,98,CS,CS
+GORN_P1,156,Ponte dell'Arsenal detto P. Ar,GORN,Rio de le Gorne,97,67,CS,CS
+CELE_P1,157,"Ponte Privato, v‡ al civico 275",CELE,Rielo drio la Celestia o de l'Arsenal,67,67,CS,CS
+VENETA,158,Ponte de la Veneta Marina,TANA2,Rio de la Tana,99,103,CS,CS
+TANA,159,Ponte de la Tana,TANA2,Rio de la Tana,99,103,CS,CS
+GARIBAL,160,Ponte Novo va in Via Garibaldi,ANA3,Rio de la Tana,100,103,CS,CS
+GERO_P1,161,Ponte Privato - Passerella,GERO,Rio de S. Gerolamo,99,100,CS,CS
+GIOACHIN,162,Ponte S. Gioachin,ANA2,Rio de S. Ana,100,103,CS,CS
+ANA,163,Ponte S. Ana,ANA1,Rio de S. Ana,101,103,CS,CS
+RIELO,164,Ponte Rielo,DANI,Rio de San Daniel,101,100,CS,CS
+DANIEL,165,Ponte S. Daniel,DANI,Rio de San Daniel,100,101,CS,CS
+DOMENE,166,Ponte S. Domenego,ISEP2,Rio de S. Isepo,103,104,CS,CS
+GIARDINI,167,Ponte dei Giardini,ISEP2,Rio de S. Isepo,103,104,CS,CS
+ISEPO,168,Ponte S. Isepo,ISEP1,Rio de S. Isepo,103,104,CS,CS
+ISEP_P2,169,Ponte Privato v‡ al civico 784/,ISEP1,Rio de S. Isepo,103,104,CS,CS
+ISEP_P1,170,Ponte Privato v‡ al civico 787,ISEP1,Rio de S. Isepo,103,104,CS,CS
+POMPIERI,171,Ponte dei Pompieri di S.Elena,GIAR2,Rio dei Giardini,104,105,CS,CS
+BIENNAL,172,Ponte Privato della Biennale,GIAR2,Rio dei Giardini,104,105,CS,CS
+PALUDO,173,Ponte del Paludo,GIAR2,Rio dei Giardini,104,105,CS,CS
+QUINTA,174,Ponte de Quintavale,PIER2,Canal de S. Piero,102,103,CS,CS
+PIERO,175,Ponte S. Piero,PIER2,Canal de S. Piero,101,102,CS,CS
+MOROSINI,176,Ponte Privato del Collegio Navale,ELEN,Rio de S. Elena,106,105,CS,CS
+ELENA,177,Ponte de S.Elena (Chiesa),ELEN,Rio de S. Elena,106,105,CS,CS
+STADIO2,178,Ponte 2 dello Stadio,ELEN,Rio de S. Elena,106,105,CS,CS
+DIPORTO,179,Ponte del Diporto Velico,ELEN,Rio de S. Elena,106,105,CS,CS
+PANA3_P1,180,Ponte Privato v‡ al civico 6104,PANA3,Rio de la Panada,70,65,CN,CN
+ERBE,181,Ponte de le Erbe,PANA3,Rio de la Panada,70,65,CN,CN
+PANADA,182,Ponte de la Panada,PANA2,Rio de la Panada,61,65,CN,CN
+PANAD2,183,Ponte Panada,FNUO4,Rio de la Panada,61,65,CN,CN
+GRISOS,184,Ponte S.G.Grisostomo,GRIS1,Rio de S.Giovanni Grisostomo,69,71,CN,CN
+GRIS_ P1,185,Ponte Privato Teatro Malibran 1,GRIS2,Rio de S.Giovanni Grisostomo,69,71,CN,CN
+GRIS_P2,186,Ponte Privato Teatro Malibran 2,GRIS2,Rio de S.Giovanni Grisostomo,69,71,CN,CN
+MIRACO,187,Ponte dei Miracoli,MIRA,Rio dei Miracoli,69,70,CN,CN
+MARNOV,188,Ponte S. Maria Nova,MIRA,Rio dei Miracoli,69,70,CN,CN
+PIOVAN,189,Ponte del Piovan o del Volto,WIDM2,Rio Widman,61,69,CN,CN
+WIDMAN,190,Ponte Widmann,WIDM1,Rio Widman,61,69,CN,CN
+WIDM1_P1,191,Ponte Privato v‡ al civico 5514,WIDM1,Rio Widman,61,69,CN,CN
+NORIS,192,Ponte Noris,WIDM1,Rio Widman,61,69,CN,CN
+APOSTOl,193,Ponte SS.Apostoli,APOS4,Rio dei Ss. Apostoli,64,69,CN,CN
+CANZIAN,194,Ponte S.Canzian,APOS3,Rio dei Ss. Apostoli,64,69,CN,CN
+GIUSTN,195,Ponte Giustinian,APOS2,Rio dei Ss. Apostoli,64,61,CN,CN
+AQUAVIV,196,Ponte de l'Acquaviva,GESU2,Rio dei Gesuiti,60,61,CN,CN
+DONA,197,Ponte Don‡,GESU1,Rio dei Gesuiti,57,61,CN,CN
+GESUIT,198,Ponte dei Gesuiti,CATE3,Rio de S. Caterina,57,60,CN,CN
+CATERIN,199,Ponte S.Caterina,CATE2,Rio de S. Caterina,57,59,CN,CN
+MOLIN,200,Ponte Molin de la Racheta,CATE1,Rio de S. Caterina,57,58,CN,CN
+SARTRI,201,Ponte dei Sartori,GOZZ,Rio del Gozzi,60,64,CN,CN
+ANDREA,202,Ponte S. Andrea,ANDR2,Rio de S. Andrea,59,63,CN,CN
+CORREN,203,Ponte Corrente,ANDR1,Rio de S. Andrea,59,62,CN,CN
+PRIUL2,204,Ponte Priuli,PRIU2,Rio Priuli,62,64,CN,CN
+VELE,205,Ponte de le Vele,PRIU2,Rio Priuli,62,64,CN,CN
+PRIULI,206,Ponte Priuli,PRIU1,Rio Priuli,58,64,CN,CN
+2POZZI,207,Ponte Piano (senza nome) va in Ruga,PRIU2,Rio Priuli,62,63,CN,CN
+RACH1_P1,208,Ponte Privato v‡ al civico 3777,RACH1,Rio de la Racheta,58,59,CN,CN
+FELICE,209,Ponte Novo S.Felice,FELI2,Rio de S. Felice,18,64,CN,CN
+BELLI,210,Ponte Ubaldo Belli,FELI2,Rio de S. Felice,18,64,CN,CN
+RACHET,211,Ponte de la Racheta,FELI1,Rio de S. Felice,18,64,CN,CN
+CHIODO_P1,212,"Ponte Privato, 3750 (P. Chiodo",FELI1,Rio de S. Felice,18,64,CN,CN
+PASQU2,213,Ponte Pasqualigo,NOAL4,Rio de Noal,17,18,CN,CN
+MISERI,214,Ponte de la Misericodia,NOAL1,Rio de Noal,9,18,CN,CN
+OGIO,215,Ponte de l'Ogio,MADA,Rio de la Madalena,16,17,CN,CN
+CORRER,216,Ponte Correr,MADA,Rio de la Madalena,17,16,CN,CN
+MADA_P1,217,Ponte Privato v‡ al civico 2205,MADA,Rio de la Madalena,17,16,CN,CN
+ANTONIO,218,Ponte S. Antonio,MADA,Rio de la Madalena,16,17,CN,CN
+FOSCA,219,Ponte S.Fosca,FOSC3,Rio de S. Fosca,14,17,CN,CN
+VENDRA,220,Ponte Vendramin,FOSC3,Rio de S. Fosca,14,17,CN,CN
+DIEDO,221,Ponte Diedo,GRIM2,Rio Grimani,12,14,CN,CN
+MORO,222,Ponte Moro,GRIM1,Rio Grimani,12,13,CN,CN
+ZANCAN,223,Ponte Zancan,TRAP,Rio del Trapolin,13,14,CN,CN
+STORT4,224,Ponte Storto,MARC,Rio de S. Marcuola,16,15,CN,CN
+ANCONE,225,Ponte de l'Anconeta,MARC,Rio de S. Marcuola,15,16,CN,CN
+MARZIA,226,Ponte S. Marziale,MISE6,Rio de la Misericordia,9,13,CN,CN
+MISE5_P1,227,Ponte Privato v‡ al civico 2601,MISE5,Rio de la Misericordia,9,12,CN,CN
+ASEO,228,Ponte de l'Aseo,MISE3,Rio de la Misericordia,8,15,CN,CN
+LORED2,229,Ponte Loredan,MISE2,Rio de la Misericordia,8,15,CN,CN
+ORMESI,230,Ponte dei Ormesini,MISE2,Rio de la Misericordia,8,15,CN,CN
+GHETON,231,Ponte del Gheto Novo,MISE1,Rio de la Misericordia,8,11,CN,CN
+GIROLA,232,Ponte S. Girolamo,GIRO2,Rio de S. Girolamo,7,10,CN,CN
+CAPUZI,233,Ponte de le Capuccine,GIRO2,Rio de S. Girolamo,7,10,CN,CN
+MORO2,234,Ponte Moro,GIRO1,Rio de Ca'Moro,15,7,CN,CN
+NOV3,235,Ponte Novo,BATE,Rio del Batelo,15,10,CN,CN
+BATELO,236,Ponte del Batelo,BATE,Rio del Batelo,10,15,CN,CN
+BATE_P1,237,Ponte Privato v‡ al civico 1104,BATE,Rio del Batelo,10,15,CN,CN
+GHETOV,238,Ponte del Gheto Vechio,GHET2,Rio del Ghetto Nuovo,11,15,CN,CN
+GHETONS,239,Ponte del Gheto Novissimo,GHET2,Rio del Ghetto Nuovo,11,15,CN,CN
+TORETE,240,Ponte de le Torete,TRTE,Rio de le Torete,7,8,CN,CN
+LUSTRA,241,Ponte dei Lustraferi,LUST,Rio dei Lustraferi,8,9,CN,CN
+ABAZIA2,242,Ponte de l'Abazia,SENS6,Rio de la Sensa,6,9,CN,CN
+VECIA,243,Ponte Corte Vechia,SENS6,Rio de la Sensa,6,9,CN,CN
+MORI,244,Ponte dei Mori,SENS5,Rio de la Sensa,5,9,CN,CN
+FORNO2,245,Ponte del Forno,SENS3,Rio de la Sensa,4,8,CN,CN
+MALVAS,246,Ponte de la Malvasia,SENS2,Rio de la Sensa,3,8,CN,CN
+TURLON,247,Ponte Turlona,SENS2,Rio de la Sensa,3,8,CN,CN
+SENSA,248,Ponte Contarini o de la Sensa,SENS1,Rio de la Sensa,3,7,CN,CN
+TRASTI,249,Ponte dei Trasti,SENS3,Rio dei Trasti,3,4,CN,CN
+BRAZZO,250,Ponte Brazzo,SENS5,Rio Brazzo,4,5,CN,CN
+MUTI,251,Ponte dei Muti,MUTI,Rio dei Muti,5,6,CN,CN
+SACCAM,252,Ponte de la Sacca de la Misericordia,ORTO3,Rio de la Madona de l'Orto,2,6,CN,CN
+ORTO,253,Ponte de la Madona de l'Orto,ORTO2,Rio de la Madona de l'Orto,2,5,CN,CN
+LOREDA,254,Ponte Loredan,ORTO1,Rio de la Madona de l'Orto,2,4,CN,CN
+ALVISE,255,Ponte S. Alvise,ALVI,Rio de S. Alvise,1,3,CN,CN
+BONAVE,256,Ponte de San Bonaventura,ALVI,Rio de S. Alvise,1,3,CN,CN
+CAVBON,257,Ponte sulla Cavana (S.Bonaventura),ALVI,Rio de S. Alvise,1,1,CN,CN
+GUGLIE,258,Ponte de le Guglie,CANN4,Canal de Cannaregio,15,20,CN,CN
+3ARCHI,259,Ponte dei Tre Archi,CANN2,Canal de Cannaregio,15,123,CN,CN
+SAPONE,260,Ponte de le Saponete,CANN2,Canal de Cannaregio,19,123,CN,CN
+GIOB_P1,261,Ponte Privato v‡ al civico 621,GIOB,Rio de S. Giobbe,19,123,CN,CN
+ENEL_P1,262,Ponte Privato-Passerella Enel,GIOB,Rio de S. Giobbe,19,123,CN,CN
+ENEL_P2,263,Ponte Privato-Passerella Enel,GIOB,Rio de S. Giobbe,19,123,CN,CN
+PRIULC,266,Ponte Priuli ai Cavalletti,CREA2,Rio de la Crea,123,0,CN,CN
+X1_P1,272,"Ponte Privato, va alla Manifattura",,Rio de Sant'Andrea de la Zirada,0,0,SC,SC
+COSSET,273,Ponte Cossetti,,Rio de Sant'Andrea de la Zirada,0,0,SC,SC
+3PONTI1,274,Ponte dei Tre Ponti,NUOV1,Rio Novo,0,0,SC,SC
+TABACC,278,Ponte della Manifattura Tabacc,BURC,Rio de le Burchiele,0,0,SC,SC
+CAZZIOL,280,Ponte de la Cazziola,CAZZ,Rio de la Cazziola e de Ca' Rizzi,0,0,SC,SC
+RIZZI2,281,Ponte de Ca' Rizzi,SMAR1,Rio de S. Maria Maggior,0,0,SC,SC
+CHIARA,282,Ponte Secondo S. Chiara,NUOV1,Rio Novo,0,0,SC,SC
+PAPADO,283,Ponte Papadopoli,NOVO1,Rio Novo,0,0,SC,SC
+CROZE,284,Ponte de la Croze,TOLE,Rio dei Tolentini e de la Crose,0,0,SC,SC
+TOLENT,285,Ponte dei Tolentini,TOLE,Rio dei Tolentini e de la Crose,0,0,SC,SC
+PANTAL,286,Ponte de S. Pantalon,PANT,Rio de S. Pantalon,0,0,SC,SC
+VINANT,287,Ponte Vinante,PANT,Rio de S. Pantalon,0,0,SC,SC
+SECHER,288,Ponte de le Sechere,ZUAN,Rio de le Muneghete,0,0,SP,SP
+ZUAN_P1,289,Ponte va al Civico 197/A,ZUAN,Rio de le Muneghete,0,0,SP,SP
+CANAL2,290,Ponte Canal,AVOG,Rio dei Ognisanti,0,0,DD,DD
+LATTE,291,Ponte de la Latte,GIAC1,Rio Marin,0,0,SP,SP
+CRIST3,292,Ponte del Cristo,MARN,Rio Marin,0,0,SC,SC
+CAPPEL2,293,Ponte Cappello,MARN,Rio Marin,0,0,SC,SC
+BERGAM,294,Ponte de la Bergama,MARN,Rio Marin,0,0,SC,SC
+ZANDEG,295,Ponte S. Zan Degol‡,DEGO,Rio de S. Zan Degol‡,0,0,SC,SC
+SAVIO,296,Ponte del Savio,DEGO,Rio de S. Zan Degol‡,0,0,SC,SC
+RUGVEC,297,Ponte de Ruga Vechia,DEGO,Rio de S. Zan Degol‡,0,0,SC,SC
+RUGBEL,298,Ponte de Ruga Bella o del Forner,DEGO,Rio de S. Zan Degol‡,0,0,SC,SC
+OCHE,300,Ponte de le Oche,DEGO,Rio de S. Zan Degol‡,0,0,SC,SC
+PARUCH,301,Ponte del Parucheta,GIAC2,Rio de S. Giacomo dell'Orio,0,0,SP,SP
+BOLDO,302,Ponte S. Boldo,GIAC2,Rio de S. Giacomo dell'Orio,0,0,SP,SP
+STORT3,303,Ponte Storto,BOLD1,Rio de S. Boldo,0,0,SP,SP
+MODENA,304,Ponte del Modena,BOLD1,Rio de S. Boldo,0,0,SP,SP
+FORNER2,305,Ponte del Forner,BOLD3,Rio de S. Boldo,0,0,SC,SC
+COLOMB,306,Ponte del Colombo,MEGI2,Rio del Megio,0,0,SC,SC
+MEGIO,307,Ponte del Megio,MEGI1,Rio del Megio,0,0,SC,SC
+TENTOR,308,Ponte del Tentor,TRON,Rio de Ca' Tron,0,0,SC,SC
+MOCE_P3,309,Ponte privato v‡ al civico 1903,MOCE,Rio Mocenigo o de la Rioda o de S. Stae,0,0,SC,SC
+RIODA,310,Ponte de la Rioda,MOCE,Rio Mocenigo o de la Rioda o de S. Stae,0,0,SC,SC
+MOCE_P2,311,Ponte privato v‡ al civico 2062,MOCE,Rio Mocenigo o de la Rioda o de S. Stae,0,0,SC,SC
+MOCE_P1,312,Ponte Privato v‡ al civico 2069,MOCE,Rio Mocenigo o de la Rioda o de S. Stae,0,0,SC,SC
+GIOVAN,313,Ponte Giovanelli,MOCE,Rio Mocenigo o de la Rioda o de S. Stae,0,0,SC,SC
+CRIST2,314,Ponte del Cristo o del Tentor,PERG,Rio de la Pergola o de Ca' Pesaro,0,0,SC,SC
+FORNER,315,Ponte del Forner,PERG,Rio de la Pergola o de Ca' Pesaro,0,0,SC,SC
+PESARO,316,Ponte de Ca' Pesaro,PERG,Rio de la Pergola o de Ca' Pesaro,0,0,SC,SC
+AGNELA,317,Ponte de l'Agnella,TORR1,Rio de S.Maria Mater Domini,0,0,SC,SC
+MATERD,318,Ponte S.M.Mater Domini,TORR1,Rio de S.Maria Mater Domini,0,0,SC,SC
+RAVANO,319,Ponte del Ravano,TORR1,Rio de S.Maria Mater Domini,0,0,SC,SC
+TETTE,321,Ponte de le Tette,CASS1,Rio de S. Cassan,0,0,SP,SP
+GCROCE,322,Ponte G.Andrea della Croce,CASS1,Rio de S. Cassan,0,0,SP,SP
+CASS1_P1,323,Ponte v‡ al civico 2347,CASS1,Rio de S. Cassan,0,0,SP,SP
+CHIESA,324,Ponte de la Chiesa,CASS1,Rio de S. Cassan,0,0,SP,SP
+PESCAR,325,Ponte de la Pescaria,BECA1,Rio de le Becarie,0,0,SP,SP
+BECA1_P1,326,Ponte Privato v‡ al civico 1680,BECA1,Rio de le Becarie,0,0,SP,SP
+BECARI,327,Ponte de le Becarie,BECA1,Rio de le Becarie,0,0,SP,SP
+2SPADE,328,Ponte de le Do Spade,BECA1,Rio de le Becarie,0,0,SP,SP
+RASPI,329,Ponte Raspi o Sansoni,BECA1,Rio de le Becarie,0,0,SP,SP
+STORT1,330,Ponte Storto,BECA2,Rio de S. Aponal,0,0,SP,SP
+FURATO,331,Ponte de la Furatola,BECA3,Rio de S. Aponal,0,0,SP,SP
+MELONI,332,Ponte dei Meloni,,Rio dei Meloni,0,0,SP,SP
+CAVALLI,333,Ponte Cavalli,MADO3,Rio della Madonnetta,0,0,SP,SP
+MADONT,334,Ponte de la Madoneta,MADO3,Rio della Madonnetta,0,0,SP,SP
+BERNAR,335,Ponte de Ca' Bernardo,TORR3,Rio de le Do Torre,0,0,SP,SP
+CADONA,337,Ponte de Ca' Dona,AGOS,Rio de S. Agostin,0,0,SP,SP
+POLO,338,Ponte S.Polo,POLO2,Rio de S. Polo,0,0,SP,SP
+ERBE_P1,339,Ponte privato v‡ al civico 2033,ERBE,Rielo de le Erbe,0,0,SP,SP
+TRAGHE,340,Ponte del Traghetto,FRAR6,Rio de S. Tom‡,0,0,SP,SP
+TOMA,341,Ponte S.Tom‡,FRAR6,Rio de S. Tom‡,0,0,SP,SP
+FRAR5_P3,342,Ponte Privato v‡ al civico 2816,FRAR6,Rio de S. Tom‡,0,0,SP,SP
+FRAR5_P2,343,Ponte Privato v‡ al civico 2826,FRAR6,Rio de S. Tom‡,0,0,SP,SP
+FRAR5_P1,344,Ponte Privato v‡ al civico 2705,FRAR5,Rio de S. Tom‡,0,0,SP,SP
+FRAR3_P1,345,Pont Privato v‡ al civico 2597,FRAR4,Rio dei Frari,0,0,SP,SP
+FRARI,346,Ponte dei Frari,FRAR3,Rio dei Frari,0,0,SP,SP
+STIN,347,Ponte S.Stin,FRAR2,Rio de S. Stin,0,0,SP,SP
+FRESCA,348,Ponte de la Frescada,FRES,Rio de la Frescada,0,0,SP,SP
+DONESTA,349,Ponte de la Dona Onesta,FRES,Rio de la Frescada,0,0,SP,SP
+FRES_P1,350,Ponte Privato v‡ al civico 3945,FRES,Rio de la Frescada,0,0,SP,SP
+FRES_P2,351,Ponte Privato v‡ al civico 3945,FRES,Rio de la Frescada,0,0,SP,SP
+ROCCO,352,Ponte de S. Rocco,FRES,Rio de la Frescada,0,0,SP,SP
+SCUOLA,353,Ponte de la Scuola,FRES,Rio de la Frescada,0,0,SP,SP
+FOSCARI,354,Ponte Foscari,CAFO,Rio de Ca' Foscari,0,0,DD,DD
+MARGAR,355,Ponte de S. Margarita,CAFO,Rio de Ca' Foscari,0,0,DD,DD
+SBIACA,356,Ponte de la Sbiaca,NUOV4,Rio Novo,0,0,DD,DD
+CERARIA,357,Ponte de la Ceraria,NUOV3,Rio Novo,0,0,DD,DD
+MARCEL,358,Ponte de Ca' Marcello,GAFF,Rio del Gaffaro e del Malcanton,0,0,SC,SC
+GAFFAR,359,Ponte del Gaffaro,TOLE,Rio del Gaffaro e del Malcanton,0,0,SC,SC
+SQUART,360,Ponte dei Squartai,TOLE,Rio del Magazen,0,0,SC,SC
+ZUCCAT,361,Ponte Zuccato,MAGA,Rio del Magazen,0,0,SC,SC
+MART4_P1,362,Ponte Privato Soc. Veneziana Gas,MART4,Rio de l'Arzere e de S. Marta,0,0,SC,SC
+MARTA,363,Ponti de S.Marta,ARZE,Rio de le Terese,0,0,DD,DD
+NICOLO,365,Ponte S.Nicol√≤,NICO01,Rio de S. Nicol√≤ dei Mendicoli,0,0,DD,DD
+MARITT,366,Ponte del Racc.Autom. della Maritti,SCOM,Canal de la Scomenzera,0,0,SC,SC
+SMMAGG,368,Ponte S. Maria Maggiore,SMAR3,Rio de S. Maria Maggior,0,0,SC,SC
+RIZZI,369,Ponte de Ca' Rizzi,CAZZ,Rio de la Cazziola e de Ca' Rizzi,0,0,SC,SC
+PAGAN,370,Ponte del Pagan,TREP1,Rio Novo,0,0,SC,SC
+TREP3_P1,371,Ponte Privato Unit‡ Santaria Locale,TREP3,Rio dei Tre Ponti,0,0,DD,DD
+RAGUSE,372,Ponte dei Ragusei,TREP4,Rio del Tentor,0,0,DD,DD
+ROSSO,373,Ponte Rosso,TREP4,Rio del Tentor,0,0,DD,DD
+TENT_P1,374,Ponte Privato privo di n. civ,TENT,Rio del Tentor,0,0,DD,DD
+GUARDI,375,Ponte dei Guardiani,TENT,Rio del Tentor,0,0,DD,DD
+STORT7,377,Ponte Storto,TENT,Rio del Tentor,0,0,DD,DD
+MADONA,378,Ponte de la Madona,TENT,Rio del Tentor,0,0,DD,DD
+BRIATI,379,Ponte Briati,BRIA,Rio Briati,0,0,DD,DD
+PIOVA,380,Ponte de la Piova,RAFF,Rio de l'Anzolo Rafael,0,0,DD,DD
+SOCCOR,382,Ponte del Soccorso,CARM,Rio dei Carmini,0,0,DD,DD
+FOSCRNI,383,Ponte Foscarini,MARG,Rio de S. Margherita,0,0,DD,DD
+CAVENEL,384,Ponte su cavana dell'ENEL,MARG,Rio de S. Margherita,0,0,DD,DD
+FORNO,385,Ponte del Forno,MARG,Rio de S. Margherita,0,0,DD,DD
+RENIER,386,Ponte Renier,MARG,Rio de S. Margherita,0,0,DD,DD
+MADDAL,387,Ponte de la Maddalena,SEBA,Rio de S. Sebastian e S. Basegio,0,0,DD,DD
+SEBAST,388,Ponte S. Sebastian,SEBA,Rio de S. Sebastian e S. Basegio,0,0,DD,DD
+BASEGI,389,Ponte S. Basegio,SEBA,Rio de S. Sebastian e S. Basegio,0,0,DD,DD
+MOLIN,390,Ponte Molin,SEBA,Rio de S. Sebastian e S. Basegio,0,0,DD,DD
+BARNAB,391,Ponte S.Barnaba,BARN1,Rio de S. Barnaba,0,0,DD,DD
+PUGNI,392,Ponte dei Pugni,BARN1,Rio de S. Barnaba,0,0,DD,DD
+PAZIEN,393,Ponte de le Pazienze,BARN3,Rio de l'Avogaria,0,0,DD,DD
+AVOGAR,394,Ponte de l'Avogaria,BARN3,Rio de l'Avogaria,0,0,DD,DD
+SARTRO,395,Ponte Sartorio,AVOG,Rio dei Ognisanti,0,0,DD,DD
+AVOG_P1,396,Ponte Privato v‡ al civico 146,AVOG,Rio dei Ognisanti,0,0,DD,DD
+CORTEL,397,Ponte Cortelotto,AVOG,Rio dei Ognisanti,0,0,DD,DD
+CANAL,398,Ponte Canal,ZUAN,Rio de le Muneghete,0,0,SP,SP
+TREVIS,399,Ponte Trevisan,OGNI2,Rio dei Ognisanti,0,0,DD,DD
+SCOAZZ,400,Ponte de la Scoazzera,OGNI2,Rio dei Ognisanti,0,0,DD,DD
+MALPAG,401,Ponte del Malpaga,MALP1,Rio del Malpaga,0,0,DD,DD
+LOMBAR,402,Ponte Lombardo,MALP1,Rio de la Toletta,0,0,DD,DD
+TURCHE,403,Ponte de leTurchette,MALP2,Rio del Malpaga,0,0,DD,DD
+OGNISS,404,Ponte Ognissant,MALP3,Rio del Malpaga,0,0,DD,DD
+ROMITE,405,Ponte de le Romite,ROMI,Rio de le Romite,0,0,DD,DD
+BORGO,406,Ponte de Borgo,ROMI,Rio de le Romite,0,0,DD,DD
+SQUERO,407,Ponte del Squero,TOLA1,Rio de la Toletta,0,0,DD,DD
+TOLETT,408,Ponte de la Toletta,TOLA2,Rio de la Toletta,0,0,DD,DD
+MARAVE,409,Ponte de le Maravegie,TROV1,Rio de S. Trovaso,0,0,DD,DD
+TROVAS,410,Ponte S.Trovaso,TROV1,Rio de S. Trovaso,0,0,DD,DD
+LUNGO,411,Ponte Lungo,GIUD7,Rio de S. Trovaso,0,0,DD,DD
+CALCINA,412,Ponte de la Calcina,GIUD8,Rio de S. Vio,0,0,DD,DD
+MEZZO,413,Ponte de Mezzo,VIO,Rio de S. Vio,0,0,DD,DD
+SANVIO,414,Ponte de S.Vio,VIO,Rio de S. Vio,0,0,DD,DD
+CINI_P1,415,Ponte Privato v‡ al civico 732,VIO,Rio de S. Vio,0,0,DD,DD
+CRISTOF2,416,Ponte S.Cristofolo,TORE,Rio de le Toresele,0,0,DD,DD
+FORMAG,417,Ponte del Formager,TORE,Rio de le Toresele,0,0,DD,DD
+INCURA,418,Ponte ai Incurabili,GIUD9,Rio de le Toresele,0,0,DD,DD
+CABALA,419,Ponte C‡ Bal‡,GIUD11,Rio de la Fornasa,0,0,DD,DD
+SANTI,420,Ponte de Mezzo o Santi,FORN,Rio de la Fornasa,0,0,DD,DD
+GREGOR,421,Ponte S.Gregorio,FORN,Rio de la Fornasa,0,0,DD,DD
+ABAZIA,422,Ponte de l'Abazia,SALU,Rio de la Salute,0,0,DD,DD
+SALU_P1,423,Ponte Privato V‡ al civico 170,SALU,Rio de la Salute,0,0,DD,DD
+SALUTE,424,Ponte de la Salute,SALU,Rio de la Salute,0,0,DD,DD
+UMILTA,425,Ponte de l'Umiltr‡,GIUD11,Rio de la Salute,0,0,DD,DD
+INCENER,426,Ponte de l'Inceneritore (Privato),SACB2,Rio de Sacca San Biagio,120,108,GD,GD
+BIAGIO,427,Ponte senza Nome,SACF1,Sacca Fisola,107,108,GD,GD
+GERAR,428,Ponte S. Gerardo,SACF2,Sacca Fisola,107,109,GD,GD
+LAVRA,429,Ponte dei Lavraneri,LAVR,Rio dei Lavraneri,107,111,GD,GD
+SCURO,430,Ponte del Lago Scuro,BIAG1,Rio de San Biagio,111,113,GD,GD
+CONVERT,431,Ponte de le Convertite,CONV,Rio delle Convertite,112,113,GD,GD
+EUFEMIA,432,Ponte S. Eufemia,EUFE2,Rio de S. Eufemia,112,114,GD,GD
+EUFE_P1,433,Ponte Privato va al civico 681,EUFE2,Rio de S. Eufemia,112,114,GD,GD
+COSMO,434,Ponte S. Cosmo o Lagoscuro,EUFE1,Rio de S. Eufemia,113,114,GD,GD
+PICCOLO,435,Ponte Piccolo,PPIC3,Rio del Ponte Piccolo,114,115,GD,GD
+SCUOLE,437,Ponte de le Scuole,PPIC2,Rio del Ponte Piccolo,114,116,GD,GD
+PALADA,438,Ponte de la Palada,PALA,Rio della Palada,115,116,GD,GD
+ANGELO,439,Ponte S. Angelo,PALA,Rio della Palada,115,116,GD,GD
+LONGO,440,Ponte Longo,PLON2,Rio del Ponte Longo,115,117,GD,GD
+CROC_P1,441,Ponte Privato va al civico 158,CROC,Rio della Croce,117,118,GD,GD
+CROZE2,442,Ponte de la Croze,CROC,Rio della Croce,117,118,GD,GD
+GIORGIO,443,Ponte privato - Passerella girevole,DGIO,Darsena S. Giorgio,119,119,GD,GD
+CREA,444,Ponte Novo de la Crea,CREA1,Rio de la Crea,123,20,CN,CN
+STADIO1,445,Ponte Nuovo dello Stadio,ELEN,Rio de S. Elena,106,105,CS,CS
+OSPIZIO,446,Ponte Novo de l'Ospizio Da Ponte,CREA1,Rio de la Crea,123,20,CN,CN

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Apache-POI"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/opencsv"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/joda-time"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/parserutil"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/guava"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javassist"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/commons-math3-3.2"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
